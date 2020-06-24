@@ -1,4 +1,4 @@
-#gtfs-kecskemet
+# gtfs_kecskemet
 
 Kecskemét nem hivatalos GTFS adatbázisa
 
