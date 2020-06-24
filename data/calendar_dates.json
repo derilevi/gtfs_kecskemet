@@ -1,0 +1,94 @@
+{
+  "20200531": {
+    "add": ["MSZ_AUCHAN_Z"],
+    "remove": ["MSZ_AUCHAN_NY"]
+  },
+  "20200601": {
+    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
+    "remove": ["MN", "MN_TSZ"]
+  },
+  "20200820": {
+    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
+    "remove": ["MN", "MN_TSZ"]
+  },
+  "20200821": {
+    "add": ["SZN", "SZ_MSZ"],
+    "remove": ["MN", "MN_TSZ"]
+  },
+  "20200829": {
+    "add": ["MN", "MN_TSZ"],
+    "remove": ["SZN", "SZ_MSZ"]
+  },
+  "20201023": {
+    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
+    "remove": ["MN", "MN_IE"]
+  },
+  "20201026": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201027": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201028": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201029": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201030": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201101": {
+    "add": ["MSZ_AUCHAN_Z"],
+    "remove": ["MSZ_AUCHAN_NY"]
+  },
+  "20201212": {
+    "add": ["MN", "MN_IE"],
+    "remove": ["SZN", "SZ_MSZ"]
+  },
+  "20201221": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201222": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201223": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201224": {
+    "add": ["Szenteste"],
+    "remove": ["MN", "MN_TSZ"]
+  },
+  "20201225": {
+    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
+    "remove": ["MN", "MN_TSZ"]
+  },
+  "20201226": {
+    "add": ["MSZN", "MSZ_AUCHAN_Z"],
+    "remove": ["SZN"]
+  },
+  "20201228": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201229": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201230": {
+    "add": ["MN_TSZ"],
+    "remove": ["MN_IE"]
+  },
+  "20201231": {
+    "add": ["Szilveszter"],
+    "remove": ["MN", "MN_TSZ"]
+  }
+}

@@ -1,0 +1,153 @@
+import datetime
+import json
+import zipfile
+
+def create_agency():
+	source_json = open("data/agency.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	agency_txt = open("agency.txt","w",encoding="utf8")
+	agency_txt.write("agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone\n")
+	for item_key, item in data.items():
+		agency_txt.write(",".join([item_key, item["agency_name"], item["agency_url"], item["agency_timezone"],
+									item["agency_lang"], item["agency_phone"]])+"\n")
+	agency_txt.close()
+
+def create_calendar():
+	source_json = open("data/calendar.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	calendar_txt = open("calendar.txt","w",encoding="utf8")
+	calendar_txt.write("service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date\n")
+	for item_key, item in data.items():
+		calendar_txt.write(",".join([item_key, str(item["monday"]), str(item["tuesday"]), str(item["wednesday"]),
+									str(item["thursday"]), str(item["friday"]), str(item["saturday"]), str(item["sunday"]),
+									str(item["start_date"]), str(item["end_date"])])+"\n")
+	calendar_txt.close()
+
+def create_calendar_dates():
+	source_json = open("data/calendar_dates.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	calendar_dates_txt = open("calendar_dates.txt","w",encoding="utf8")
+	calendar_dates_txt.write("service_id,date,exception_type\n")
+	for item_key, item in data.items():
+		for service_id in item["add"]:
+			calendar_dates_txt.write(",".join([service_id, item_key, "1"])+"\n")
+		for service_id in item["remove"]:
+			calendar_dates_txt.write(",".join([service_id, item_key, "2"])+"\n")
+	calendar_dates_txt.close()
+
+def create_routes():
+	source_json = open("data/routes.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	routes_txt = open("routes.txt","w",encoding="utf8")
+	routes_txt.write("agency_id,route_id,route_short_name,route_long_name,route_type\n")
+	for item_key, item in data.items():
+		routes_txt.write(",".join([item["agency"], item_key, str(item["route_short_name"]), "\""+item["route_long_name"]+"\"",
+									str(item["route_type"])])+"\n")
+	routes_txt.close()
+
+def create_shapes():
+	# TODO
+	pass
+
+def get_unique_stops():
+	source_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	unique_stops = set()
+	for route, route_data in data.items():
+		for stop in route_data["stops"]:
+			unique_stops.add(stop)
+	return unique_stops
+
+def create_stops():
+	unique_stops = get_unique_stops()
+	source_json = open("data/stops.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	stops_txt = open("stops.txt","w",encoding="utf8")
+	stops_txt.write("stop_id,stop_name,stop_lat,stop_lon\n")
+	for item_key, item in data.items():
+		stops_txt.write(",".join([item_key, "\""+item["stop_name"]+"\"", str(item["stop_lat"]), str(item["stop_lon"])])+"\n")
+	stops_txt.close()
+
+def create_stop_times_trips():
+	travel_times_json = open("data/travel_times.json","r",encoding="utf8")
+	start_times_json = open("data/start_times.json","r",encoding="utf8")
+	stops_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
+
+	travel_times_dict = json.load(travel_times_json)
+	start_times_dict = json.load(start_times_json)
+	stops_dict = json.load(stops_json)
+
+	travel_times_json.close()
+	start_times_json.close()
+	stops_json.close()
+	
+	trips_txt = open("trips.txt","w",encoding="utf8")
+	trips_txt.write("route_id,service_id,trip_id,direction_id\n")
+	stop_times_txt = open("stop_times.txt","w",encoding="utf8")
+	stop_times_txt.write("trip_id,arrival_time,departure_time,stop_id,stop_sequence\n")
+	
+	route_id = "0000"
+	for route, route_data in start_times_dict.items():
+		if "v" in route:
+			direction_id = "1"
+		else:
+			direction_id = "0"
+		route_id_prev = route_id
+		route_id = stops_dict[route]["route_id"]
+		if route_id != route_id_prev:
+			trip_seq = 1
+		if len(stops_dict[route]["stops"]) != len(travel_times_dict[route]):
+			print(route, "missing or extra stop in route, skipping...")
+			continue
+		for service_id, service_start_times in route_data.items():
+			for start_time in service_start_times:
+				trip_id = route_id + format(trip_seq, "04d")
+				trips_txt.write(",".join([route_id, service_id, trip_id, direction_id])+"\n")
+				start_time = datetime.datetime.strptime(start_time, "%H:%M")
+				stop_seq = 0
+				for stop in stops_dict[route]["stops"]:
+					stop_time = start_time + datetime.timedelta(minutes=int(travel_times_dict[route][stop_seq]))
+					stop_time = datetime.datetime.strftime(stop_time, "%H:%M:%S")
+					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq)])+"\n")
+					stop_seq += 1
+				trip_seq += 1
+	trips_txt.close()
+	stop_times_txt.close()
+
+def main():
+	# create text files
+	print("creating agency.txt...")
+	create_agency()
+	print("creating calendar.txt...")
+	create_calendar()
+	print("creating calendar_dates.txt...")
+	create_calendar_dates()
+	print("creating routes.txt...")
+	create_routes()
+	#print("creating shapes.txt...")
+	#create_shapes()
+	print("creating stops.txt...")
+	create_stops()
+	print("creating stop_times.txt and trips.txt...")
+	create_stop_times_trips()
+	# create GTFS zip
+	print("creating GTFS zip...")
+	gtfs_zip = zipfile.ZipFile("gtfs_kecskemet.zip","w",zipfile.ZIP_DEFLATED)
+	gtfs_zip.write("agency.txt")
+	gtfs_zip.write("calendar.txt")
+	gtfs_zip.write("calendar_dates.txt")
+	gtfs_zip.write("routes.txt")
+	#gtfs_zip.write("shapes.txt")
+	gtfs_zip.write("stops.txt")
+	gtfs_zip.write("stop_times.txt")
+	gtfs_zip.write("trips.txt")
+	gtfs_zip.close()
+
+if __name__ == "__main__":
+    main()
