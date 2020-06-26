@@ -1,1 +1,1917 @@
-{"276210875": {"stop_name": "Auchan Áruház", "stop_lat": "46.8877909", "stop_lon": "19.6356647"}, "1685778511": {"stop_name": "Szent Család Plébánia", "stop_lat": "46.918579", "stop_lon": "19.6755767"}, "1685778523": {"stop_name": "Balaton utca", "stop_lat": "46.915187", "stop_lon": "19.6805096"}, "1685778524": {"stop_name": "SZTK", "stop_lat": "46.9120922", "stop_lon": "19.6732688"}, "1685778525": {"stop_name": "Szent Imre utca", "stop_lat": "46.9129648", "stop_lon": "19.6833772"}, "1685778536": {"stop_name": "Aradi vértanúk tere", "stop_lat": "46.9156421", "stop_lon": "19.6784711"}, "1685810196": {"stop_name": "Nyíri úti kórház", "stop_lat": "46.9105903", "stop_lon": "19.6752571"}, "1685810199": {"stop_name": "Nyíri úti kórház", "stop_lat": "46.9104977", "stop_lon": "19.6758319"}, "1685810200": {"stop_name": "Honvéd Kórház", "stop_lat": "46.9107241", "stop_lon": "19.6813335"}, "1685810201": {"stop_name": "Domb Áruház", "stop_lat": "46.9151357", "stop_lon": "19.6611991"}, "1685810202": {"stop_name": "Domb Áruház", "stop_lat": "46.9150818", "stop_lon": "19.6633681"}, "1685810204": {"stop_name": "Benkó-domb", "stop_lat": "46.9142236", "stop_lon": "19.6685843"}, "1685810205": {"stop_name": "Benkó-domb", "stop_lat": "46.9137789", "stop_lon": "19.6674966"}, "1824669159": {"stop_name": "Margaréta Otthon", "stop_lat": "46.9167672", "stop_lon": "19.6618659"}, "2302381304": {"stop_name": "Gyulai köz", "stop_lat": "46.8802837", "stop_lon": "19.6270242"}, "2302381307": {"stop_name": "Kadafalva, iskola", "stop_lat": "46.8764465", "stop_lon": "19.6173553"}, "2447702444": {"stop_name": "Kristály tér", "stop_lat": "46.9168845", "stop_lon": "19.6721857"}, "2447702446": {"stop_name": "Szent Imre utca", "stop_lat": "46.9138779", "stop_lon": "19.682395"}, "2447702447": {"stop_name": "Irinyi utca", "stop_lat": "46.9167524", "stop_lon": "19.6787948"}, "2447719682": {"stop_name": "Kristály tér", "stop_lat": "46.9173862", "stop_lon": "19.6731648"}, "2447719683": {"stop_name": "Szent Család Plébánia", "stop_lat": "46.9183024", "stop_lon": "19.6757844"}, "2447719684": {"stop_name": "Irinyi utca", "stop_lat": "46.9170442", "stop_lon": "19.6779784"}, "2448932268": {"stop_name": "Cifrapalota", "stop_lat": "46.9088697", "stop_lon": "19.6954334"}, "2453164534": {"stop_name": "Vasútállomás", "stop_lat": "46.9132061", "stop_lon": "19.7003801"}, "2453164535": {"stop_name": "Cifrapalota", "stop_lat": "46.9089807", "stop_lon": "19.6948183"}, "2453164536": {"stop_name": "Piaristák tere", "stop_lat": "46.9099951", "stop_lon": "19.691361"}, "2453164537": {"stop_name": "Naiv Művészeti Múzeum", "stop_lat": "46.9060387", "stop_lon": "19.6875474"}, "2453164538": {"stop_name": "Katona Gimnázium", "stop_lat": "46.9020306", "stop_lon": "19.6823455"}, "2453164540": {"stop_name": "Egyetem (GAMF)", "stop_lat": "46.897001", "stop_lon": "19.6688607"}, "2453164541": {"stop_name": "Hullám Vendéglő", "stop_lat": "46.8941566", "stop_lon": "19.6618173"}, "2453164543": {"stop_name": "Kullai köz", "stop_lat": "46.8906962", "stop_lon": "19.6503123"}, "2453164544": {"stop_name": "Kadafalvi út", "stop_lat": "46.8874749", "stop_lon": "19.639743"}, "2453164545": {"stop_name": "Vályogvető utca", "stop_lat": "46.8848954", "stop_lon": "19.6432712"}, "2453164547": {"stop_name": "Homokbánya Kollégium", "stop_lat": "46.8830313", "stop_lon": "19.6454638"}, "2458135337": {"stop_name": "Planetárium", "stop_lat": "46.9131903", "stop_lon": "19.6749134"}, "2458135338": {"stop_name": "Szövetség tér", "stop_lat": "46.9117512", "stop_lon": "19.6849283"}, "2543393157": {"stop_name": "Lestár Szakközépiskola", "stop_lat": "46.8863896", "stop_lon": "19.644719"}, "2543393165": {"stop_name": "Téglás utca", "stop_lat": "46.888788", "stop_lon": "19.6435948"}, "2543393171": {"stop_name": "Kullai köz", "stop_lat": "46.8907008", "stop_lon": "19.6515461"}, "2543393179": {"stop_name": "Bagoly Egészségház", "stop_lat": "46.8914795", "stop_lon": "19.6566025"}, "2543393186": {"stop_name": "Hullám Vendéglő", "stop_lat": "46.8945857", "stop_lon": "19.6634161"}, "2543393191": {"stop_name": "Egyetem (GAMF)", "stop_lat": "46.8968478", "stop_lon": "19.6690282"}, "2543393204": {"stop_name": "Petőfi utca", "stop_lat": "46.9032915", "stop_lon": "19.6852929"}, "2543393205": {"stop_name": "Dobó körút", "stop_lat": "46.904765", "stop_lon": "19.6888748"}, "2543393210": {"stop_name": "Katona József Színház", "stop_lat": "46.9058656", "stop_lon": "19.6939086"}, "2543393235": {"stop_name": "Vasútállomás", "stop_lat": "46.9134198", "stop_lon": "19.7003492"}, "2551945834": {"stop_name": "Katona József Színház", "stop_lat": "46.9062029", "stop_lon": "19.6946119"}, "2551945839": {"stop_name": "Ótemető utca", "stop_lat": "46.9052292", "stop_lon": "19.6993635"}, "2551945843": {"stop_name": "Kurucz tér", "stop_lat": "46.9035819", "stop_lon": "19.7025356"}, "2551945847": {"stop_name": "Műkerti sétány", "stop_lat": "46.9008741", "stop_lon": "19.7086411"}, "2551945851": {"stop_name": "Platán Otthon", "stop_lat": "46.899029", "stop_lon": "19.7149551"}, "2551945855": {"stop_name": "Gizella tér", "stop_lat": "46.8978283", "stop_lon": "19.7205217"}, "2551945859": {"stop_name": "Csokor utca", "stop_lat": "46.8981376", "stop_lon": "19.7258021"}, "2551945863": {"stop_name": "Klebelsberg utca", "stop_lat": "46.8965826", "stop_lon": "19.7302433"}, "2551945867": {"stop_name": "Kertvárosi Iskola", "stop_lat": "46.895522", "stop_lon": "19.7261387"}, "2551945871": {"stop_name": "Vadaskert", "stop_lat": "46.8971656", "stop_lon": "19.7209504"}, "2551945875": {"stop_name": "Platán Otthon", "stop_lat": "46.8991067", "stop_lon": "19.7150171"}, "2551945878": {"stop_name": "Műkerti sétány", "stop_lat": "46.901133", "stop_lon": "19.7087567"}, "2551945882": {"stop_name": "Kurucz tér", "stop_lat": "46.901955", "stop_lon": "19.7058112"}, "2551945886": {"stop_name": "Csongrádi utcai Óvoda", "stop_lat": "46.9049584", "stop_lon": "19.7006145"}, "2551945889": {"stop_name": "Posta", "stop_lat": "46.9077272", "stop_lon": "19.6957619"}, "2815348411": {"stop_name": "Bodri kereszt", "stop_lat": "46.8632957", "stop_lon": "19.6731097"}, "2815348412": {"stop_name": "Bodri kereszt", "stop_lat": "46.8633332", "stop_lon": "19.6729817"}, "2907992089": {"stop_name": "Mintagyümölcsös", "stop_lat": "46.9105353", "stop_lon": "19.7742308"}, "2907992090": {"stop_name": "Mintagyümölcsös", "stop_lat": "46.9105775", "stop_lon": "19.7750972"}, "3071916405": {"stop_name": "Széchenyi tér", "stop_lat": "46.908158", "stop_lon": "19.6898926"}, "3139118397": {"stop_name": "Budai kapu", "stop_lat": "46.9167025", "stop_lon": "19.687557"}, "3139118398": {"stop_name": "Lajtha utca", "stop_lat": "46.9212233", "stop_lon": "19.6882173"}, "3139118399": {"stop_name": "Gázló utca", "stop_lat": "46.9248058", "stop_lon": "19.6884189"}, "3139118400": {"stop_name": "Nagy Lajos király körút", "stop_lat": "46.9275459", "stop_lon": "19.6881328"}, "3139118402": {"stop_name": "Miklovics falu", "stop_lat": "46.9281017", "stop_lon": "19.6847925"}, "3139118403": {"stop_name": "Gázló utca", "stop_lat": "46.9249607", "stop_lon": "19.6881436"}, "3186534121": {"stop_name": "Budai kapu", "stop_lat": "46.9170361", "stop_lon": "19.6878433"}, "3313371822": {"stop_name": "Kadafalvi út", "stop_lat": "46.8872638", "stop_lon": "19.6399783"}, "3439442191": {"stop_name": "Jegenyefa utca", "stop_lat": "46.9572124", "stop_lon": "19.7276556"}, "3439443241": {"stop_name": "Adóhivatal", "stop_lat": "46.90469", "stop_lon": "19.70521"}, "3439443242": {"stop_name": "Agrikon", "stop_lat": "46.8882126", "stop_lon": "19.701274"}, "3439443243": {"stop_name": "Agrikon", "stop_lat": "46.88915", "stop_lon": "19.70064"}, "3439443244": {"stop_name": "Csókás utca", "stop_lat": "46.8873596", "stop_lon": "19.6836726"}, "3439443245": {"stop_name": "Akácfa utca", "stop_lat": "46.9075", "stop_lon": "19.68079"}, "3439443248": {"stop_name": "Alsószéktó 205.", "stop_lat": "46.8825237", "stop_lon": "19.6721456"}, "3439443249": {"stop_name": "Alsószéktó 245.", "stop_lat": "46.8788429", "stop_lon": "19.6687651"}, "3439443250": {"stop_name": "Aluljáró", "stop_lat": "46.911931", "stop_lon": "19.707127"}, "3439443251": {"stop_name": "Aluljáró", "stop_lat": "46.91215", "stop_lon": "19.70821"}, "3439443253": {"stop_name": "Szélmalom csárda", "stop_lat": "46.8847073", "stop_lon": "19.7049108"}, "3439443256": {"stop_name": "Autójavító", "stop_lat": "46.925733", "stop_lon": "19.669617"}, "3439443257": {"stop_name": "Autójavító", "stop_lat": "46.926217", "stop_lon": "19.668667"}, "3439443263": {"stop_name": "BARNEVÁL", "stop_lat": "46.9194889", "stop_lon": "19.6969233"}, "3439443264": {"stop_name": "BARNEVÁL", "stop_lat": "46.9198835", "stop_lon": "19.6971898"}, "3439443267": {"stop_name": "Belsőballószög", "stop_lat": "46.870087", "stop_lon": "19.6786166"}, "3439443269": {"stop_name": "Rendelőintézet", "stop_lat": "46.909997", "stop_lon": "19.6711579"}, "3439443270": {"stop_name": "Benzinkút", "stop_lat": "46.923453", "stop_lon": "19.674638"}, "3439443271": {"stop_name": "Benzinkút", "stop_lat": "46.923785", "stop_lon": "19.673732"}, "3439443278": {"stop_name": "Bodzai utca", "stop_lat": "46.89262", "stop_lon": "19.70097"}, "3439443279": {"stop_name": "Bodzai utca", "stop_lat": "46.8930421", "stop_lon": "19.7005772"}, "3439443280": {"stop_name": "Béke iskola", "stop_lat": "46.9004039", "stop_lon": "19.6836402"}, "3439443281": {"stop_name": "Béke iskola", "stop_lat": "46.9008836", "stop_lon": "19.6844386"}, "3439443282": {"stop_name": "Borbás", "stop_lat": "46.9302366", "stop_lon": "19.7871289"}, "3439443290": {"stop_name": "Veres Péter utca", "stop_lat": "46.957148", "stop_lon": "19.721457"}, "3439443291": {"stop_name": "Veres Péter utca", "stop_lat": "46.957713", "stop_lon": "19.72223"}, "3439443293": {"stop_name": "Barka utca", "stop_lat": "46.954256", "stop_lon": "19.71866"}, "3439443294": {"stop_name": "Barka utca", "stop_lat": "46.954487", "stop_lon": "19.719121"}, "3439443295": {"stop_name": "Béke fasor", "stop_lat": "46.91532", "stop_lon": "19.71035"}, "3439443297": {"stop_name": "Mérleg utca", "stop_lat": "46.8839152", "stop_lon": "19.6707481"}, "3439443298": {"stop_name": "Búzakalász utca", "stop_lat": "46.8788821", "stop_lon": "19.6984608"}, "3439443299": {"stop_name": "Búzavirág utca", "stop_lat": "46.8940891", "stop_lon": "19.6442902"}, "3439443300": {"stop_name": "Búzavirág utca", "stop_lat": "46.8941289", "stop_lon": "19.6445233"}, "3439443302": {"stop_name": "Ceglédi úti Óvoda", "stop_lat": "46.917058", "stop_lon": "19.69681"}, "3439443303": {"stop_name": "Ceglédi úti Óvoda", "stop_lat": "46.9175286", "stop_lon": "19.6966722"}, "3439443309": {"stop_name": "Csabagyöngye utca", "stop_lat": "46.895768", "stop_lon": "19.6466234"}, "3439443310": {"stop_name": "Csabagyöngye utca", "stop_lat": "46.89598", "stop_lon": "19.64674"}, "3439443312": {"stop_name": "Cserép utca", "stop_lat": "46.90638", "stop_lon": "19.6765"}, "3439443313": {"stop_name": "Csókás utca", "stop_lat": "46.888038", "stop_lon": "19.6842463"}, "3439443317": {"stop_name": "Czolner köz", "stop_lat": "46.9165103", "stop_lon": "19.7037432"}, "3439443318": {"stop_name": "TÜZÉP", "stop_lat": "46.888667", "stop_lon": "19.671667"}, "3439443320": {"stop_name": "Daimler I. kapu", "stop_lat": "46.8693007", "stop_lon": "19.7169651"}, "3439443321": {"stop_name": "Daimler II. kapu", "stop_lat": "46.868373", "stop_lon": "19.703982"}, "3439443322": {"stop_name": "Damjanich iskola", "stop_lat": "46.88445", "stop_lon": "19.68273"}, "3439443330": {"stop_name": "Szultán utca", "stop_lat": "46.89918", "stop_lon": "19.69097"}, "3439443335": {"stop_name": "Erdőalja dűlő", "stop_lat": "46.8248815", "stop_lon": "19.6619166"}, "3439443337": {"stop_name": "Erzsébet körút", "stop_lat": "46.9019022", "stop_lon": "19.7008973"}, "3439443354": {"stop_name": "Fábián köz", "stop_lat": "46.93081", "stop_lon": "19.70357"}, "3439443355": {"stop_name": "Fábián köz", "stop_lat": "46.93134", "stop_lon": "19.70374"}, "3439443356": {"stop_name": "Félegyházi vízfolyás", "stop_lat": "46.8214922", "stop_lon": "19.6667662"}, "3439443357": {"stop_name": "Félegyházi vízfolyás", "stop_lat": "46.8218785", "stop_lon": "19.6663339"}, "3439443361": {"stop_name": "Fürdő utca", "stop_lat": "46.90461", "stop_lon": "19.67398"}, "3439443368": {"stop_name": "Gokart stadion", "stop_lat": "46.8824098", "stop_lon": "19.6976499"}, "3439443369": {"stop_name": "Golovics tanya", "stop_lat": "46.8176156", "stop_lon": "19.6726517"}, "3439443373": {"stop_name": "Gyógypedagógia", "stop_lat": "46.90626", "stop_lon": "19.66893"}, "3439443374": {"stop_name": "Gyökér utca", "stop_lat": "46.949947", "stop_lon": "19.71483"}, "3439443375": {"stop_name": "Gyökér utca", "stop_lat": "46.950828", "stop_lon": "19.715777"}, "3439443379": {"stop_name": "Halasi úti felüljáró", "stop_lat": "46.8913", "stop_lon": "19.68556"}, "3439443380": {"stop_name": "Halasi úti felüljáró", "stop_lat": "46.891307", "stop_lon": "19.68644"}, "3439443389": {"stop_name": "Határút", "stop_lat": "46.917507", "stop_lon": "19.790393"}, "3439443391": {"stop_name": "Hetényegyháza, ABC", "stop_lat": "46.927336", "stop_lon": "19.5828967"}, "3439443392": {"stop_name": "Hetényegyháza, Fény utca", "stop_lat": "46.9285562", "stop_lon": "19.5736154"}, "3439443393": {"stop_name": "Hetényegyháza, Fény utca", "stop_lat": "46.92872", "stop_lon": "19.57324"}, "3439443394": {"stop_name": "Hetényegyháza, végállomás", "stop_lat": "46.9312152", "stop_lon": "19.5603268"}, "3439443395": {"stop_name": "Hetényegyháza, Újtelep", "stop_lat": "46.9294772", "stop_lon": "19.5672083"}, "3439443396": {"stop_name": "Hetényegyháza, Újtelep", "stop_lat": "46.92953", "stop_lon": "19.56757"}, "3439443397": {"stop_name": "Hetényegyháza, óvoda", "stop_lat": "46.9254063", "stop_lon": "19.5953387"}, "3439443398": {"stop_name": "Hetényegyháza, óvoda", "stop_lat": "46.9256173", "stop_lon": "19.594612"}, "3439443404": {"stop_name": "Horváth tanya", "stop_lat": "46.829873", "stop_lon": "19.657752"}, "3439443408": {"stop_name": "Hunyadi János tér", "stop_lat": "46.91475", "stop_lon": "19.70436"}, "3439443418": {"stop_name": "Hétvezér utca", "stop_lat": "46.904085", "stop_lon": "19.676287"}, "3439443420": {"stop_name": "Hőközpont", "stop_lat": "46.9173", "stop_lon": "19.680827"}, "3439443421": {"stop_name": "Hőközpont", "stop_lat": "46.9173222", "stop_lon": "19.6806095"}, "3439443429": {"stop_name": "Inkubátorház", "stop_lat": "46.89818", "stop_lon": "19.6804"}, "3439443432": {"stop_name": "Gyöngyvirág utca", "stop_lat": "46.90114", "stop_lon": "19.72083"}, "3439443433": {"stop_name": "Gyöngyvirág utca", "stop_lat": "46.90142", "stop_lon": "19.7206254"}, "3439443434": {"stop_name": "Egyetem (GAMF)", "stop_lat": "46.89815", "stop_lon": "19.66977"}, "3439443501": {"stop_name": "Kada Elek utca", "stop_lat": "46.917", "stop_lon": "19.692383"}, "3439443502": {"stop_name": "Kada Elek utca", "stop_lat": "46.917383", "stop_lon": "19.6909"}, "3439443504": {"stop_name": "Kadafalva, iskola", "stop_lat": "46.8763032", "stop_lon": "19.6173943"}, "3439443513": {"stop_name": "Mathiász Iskola", "stop_lat": "46.9640797", "stop_lon": "19.7266679"}, "3439443519": {"stop_name": "Felsőcsalános 26.", "stop_lat": "46.8838773", "stop_lon": "19.6354883"}, "3439443520": {"stop_name": "Gyulai köz", "stop_lat": "46.8801719", "stop_lon": "19.6270539"}, "3439443533": {"stop_name": "Kenyérgyár", "stop_lat": "46.89162", "stop_lon": "19.6983"}, "3439443534": {"stop_name": "Kenyérgyár", "stop_lat": "46.891669", "stop_lon": "19.6980764"}, "3439443535": {"stop_name": "Kerekes tanya", "stop_lat": "46.8558514", "stop_lon": "19.6632799"}, "3439443537": {"stop_name": "Egyetem (KVK)", "stop_lat": "46.9183689", "stop_lon": "19.6916595"}, "3439443540": {"stop_name": "Kinizsi utca", "stop_lat": "46.89782", "stop_lon": "19.698"}, "3439443541": {"stop_name": "Kinizsi utca", "stop_lat": "46.8989662", "stop_lon": "19.6972479"}, "3439443543": {"stop_name": "Kisdobos utca", "stop_lat": "46.89063", "stop_lon": "19.667725"}, "3439443544": {"stop_name": "Kisfái, végállomás", "stop_lat": "46.9045649", "stop_lon": "19.7865991"}, "3439443545": {"stop_name": "Kisfái, Tanüzem", "stop_lat": "46.907761", "stop_lon": "19.7797223"}, "3439443546": {"stop_name": "Kiskőrösi úti lovasiskola", "stop_lat": "46.8731897", "stop_lon": "19.6647229"}, "3439443549": {"stop_name": "VER-BAU", "stop_lat": "46.88512", "stop_lon": "19.70391"}, "3439443550": {"stop_name": "Kocsis Pál utca", "stop_lat": "46.9610943", "stop_lon": "19.7209975"}, "3439443553": {"stop_name": "Konzervgyár", "stop_lat": "46.91282", "stop_lon": "19.71325"}, "3439443554": {"stop_name": "Konzervgyár", "stop_lat": "46.9129679", "stop_lon": "19.7128702"}, "3439443557": {"stop_name": "Vértes utca", "stop_lat": "46.9281", "stop_lon": "19.70172"}, "3439443558": {"stop_name": "Vértes utca", "stop_lat": "46.92847", "stop_lon": "19.7018"}, "3439443568": {"stop_name": "Könyves Kálmán körút 64.", "stop_lat": "46.890683", "stop_lon": "19.668867"}, "3439443571": {"stop_name": "Köztemető II. kapu", "stop_lat": "46.921907", "stop_lon": "19.709679"}, "3439443572": {"stop_name": "Köztemető I. kapu", "stop_lat": "46.9196084", "stop_lon": "19.7141237"}, "3439443578": {"stop_name": "Ladánybenei elágazás", "stop_lat": "46.92896", "stop_lon": "19.66429"}, "3439443579": {"stop_name": "Ladánybenei elágazás", "stop_lat": "46.92904", "stop_lon": "19.6645"}, "3439443589": {"stop_name": "Lőtér", "stop_lat": "46.8913821", "stop_lon": "19.7028261"}, "3439443795": {"stop_name": "Matkó, végállomás", "stop_lat": "46.8145064", "stop_lon": "19.6772627"}, "3439443796": {"stop_name": "Matkói út", "stop_lat": "46.889773", "stop_lon": "19.690132"}, "3439443799": {"stop_name": "METRO", "stop_lat": "46.935053", "stop_lon": "19.706137"}, "3439443800": {"stop_name": "METRO", "stop_lat": "46.9359865", "stop_lon": "19.7067698"}, "3439443802": {"stop_name": "Mezei utca", "stop_lat": "46.9009184", "stop_lon": "19.6975808"}, "3439443803": {"stop_name": "Mezei utca", "stop_lat": "46.9017822", "stop_lon": "19.6952932"}, "3439443804": {"stop_name": "Mezei utca", "stop_lat": "46.9020953", "stop_lon": "19.6945677"}, "3439443805": {"stop_name": "Miklóstelep, forduló", "stop_lat": "46.9029687", "stop_lon": "19.6081423"}, "3439443806": {"stop_name": "Miklóstelep, bolt", "stop_lat": "46.9046515", "stop_lon": "19.6131405"}, "3439443807": {"stop_name": "Miklóstelep, határút", "stop_lat": "46.90777", "stop_lon": "19.6194825"}, "3439443808": {"stop_name": "Miklóstelepi bejáróút", "stop_lat": "46.9126353", "stop_lon": "19.6292191"}, "3439443809": {"stop_name": "Hévíz utca", "stop_lat": "46.92153", "stop_lon": "19.691221"}, "3439443813": {"stop_name": "Ipar utca", "stop_lat": "46.8906983", "stop_lon": "19.7141179"}, "3439443814": {"stop_name": "Raktár utca", "stop_lat": "46.891451", "stop_lon": "19.70651"}, "3439443815": {"stop_name": "Raktár utca", "stop_lat": "46.8915837", "stop_lon": "19.707124"}, "3439443824": {"stop_name": "MÉH-telep", "stop_lat": "46.891853", "stop_lon": "19.677688"}, "3439443825": {"stop_name": "MÉH-telep", "stop_lat": "46.8918914", "stop_lon": "19.6778838"}, "3439443828": {"stop_name": "Március 15. utca", "stop_lat": "46.9202662", "stop_lon": "19.6771115"}, "3439443829": {"stop_name": "Március 15. utca", "stop_lat": "46.9214111", "stop_lon": "19.6779637"}, "3439443830": {"stop_name": "Mária kápolna", "stop_lat": "46.909645", "stop_lon": "19.652324"}, "3439443831": {"stop_name": "Mária kápolna", "stop_lat": "46.90987", "stop_lon": "19.65261"}, "3439443832": {"stop_name": "Mária körút", "stop_lat": "46.9037", "stop_lon": "19.68285"}, "3439443837": {"stop_name": "Mátra utca", "stop_lat": "46.9204626", "stop_lon": "19.6933568"}, "3439443840": {"stop_name": "Corvina utca", "stop_lat": "46.91864", "stop_lon": "19.71032"}, "3439443841": {"stop_name": "Mátyás király körút 43.", "stop_lat": "46.92108", "stop_lon": "19.707"}, "3439443842": {"stop_name": "Mátyás király körút", "stop_lat": "46.9237602", "stop_lon": "19.6986604"}, "3439443843": {"stop_name": "Mátyás király körút", "stop_lat": "46.925047", "stop_lon": "19.6997209"}, "3439443848": {"stop_name": "Bíró Lajos utca", "stop_lat": "46.8868577", "stop_lon": "19.6657977"}, "3439443855": {"stop_name": "Nagy tanya", "stop_lat": "46.922869", "stop_lon": "19.606026"}, "3439443856": {"stop_name": "Nagy tanya", "stop_lat": "46.92334", "stop_lon": "19.605238"}, "3439443862": {"stop_name": "Közlekedési Hatóság", "stop_lat": "46.9044243", "stop_lon": "19.7200637"}, "3439443863": {"stop_name": "Közlekedési Hatóság", "stop_lat": "46.90498", "stop_lon": "19.7202"}, "3439443870": {"stop_name": "Bethlen körút", "stop_lat": "46.91274", "stop_lon": "19.69847"}, "3439443871": {"stop_name": "Bethlen körút", "stop_lat": "46.91294", "stop_lon": "19.69861"}, "3439443873": {"stop_name": "Nyitrai utcai Óvoda", "stop_lat": "46.923202", "stop_lon": "19.693828"}, "3439443887": {"stop_name": "Orvosi rendelő", "stop_lat": "46.9149253", "stop_lon": "19.6901454"}, "3439443888": {"stop_name": "Orvosi rendelő", "stop_lat": "46.9157", "stop_lon": "19.69085"}, "3439443891": {"stop_name": "Palota utca", "stop_lat": "46.9233111", "stop_lon": "19.7025656"}, "3439444096": {"stop_name": "Petőfi Nyomda", "stop_lat": "46.8923952", "stop_lon": "19.6997626"}, "3439444097": {"stop_name": "Petőfi Nyomda", "stop_lat": "46.8925071", "stop_lon": "19.6998003"}, "3439444100": {"stop_name": "Sarolta utca", "stop_lat": "46.9087146", "stop_lon": "19.7192309"}, "3439444101": {"stop_name": "Phoenix Mecano", "stop_lat": "46.90808", "stop_lon": "19.7165459"}, "3439444102": {"stop_name": "Phoenix Pharma", "stop_lat": "46.886943", "stop_lon": "19.690008"}, "3439444109": {"stop_name": "Platán utca", "stop_lat": "46.96284", "stop_lon": "19.7293"}, "3439444126": {"stop_name": "Reptéri Óvoda", "stop_lat": "46.9083311", "stop_lon": "19.7470998"}, "3439444127": {"stop_name": "Reptéri Óvoda", "stop_lat": "46.90845", "stop_lon": "19.74757"}, "3439444130": {"stop_name": "Repülőtér", "stop_lat": "46.90695", "stop_lon": "19.75111"}, "3439444131": {"stop_name": "Repülőtér", "stop_lat": "46.907317", "stop_lon": "19.75141"}, "3439444132": {"stop_name": "Repülőtér", "stop_lat": "46.9082997", "stop_lon": "19.7527992"}, "3439444133": {"stop_name": "Rezeda utca", "stop_lat": "46.9599713", "stop_lon": "19.7320629"}, "3439444138": {"stop_name": "Rávágy tér", "stop_lat": "46.900133", "stop_lon": "19.689517"}, "3439444139": {"stop_name": "Rávágy tér", "stop_lat": "46.900197", "stop_lon": "19.689186"}, "3439444143": {"stop_name": "Róna utca", "stop_lat": "46.889417", "stop_lon": "19.663367"}, "3439444146": {"stop_name": "SOS Gyermekfalu", "stop_lat": "46.896417", "stop_lon": "19.659247"}, "3439444147": {"stop_name": "SOS Gyermekfalu", "stop_lat": "46.89744", "stop_lon": "19.65769"}, "3439444150": {"stop_name": "Sanyó presszó", "stop_lat": "46.8827051", "stop_lon": "19.6901385"}, "3439444151": {"stop_name": "Sanyó presszó", "stop_lat": "46.882943", "stop_lon": "19.689769"}, "3439444154": {"stop_name": "Mária körút", "stop_lat": "46.903767", "stop_lon": "19.683"}, "3439444155": {"stop_name": "Serleg utca", "stop_lat": "46.92115", "stop_lon": "19.70056"}, "3439444164": {"stop_name": "Kecskeméti Fürdő", "stop_lat": "46.9013816", "stop_lon": "19.6673452"}, "3439444167": {"stop_name": "Sutusfalu", "stop_lat": "46.9057804", "stop_lon": "19.6477506"}, "3439444168": {"stop_name": "Sutusfalu", "stop_lat": "46.9062478", "stop_lon": "19.6470115"}, "3439444180": {"stop_name": "Szövetség utca", "stop_lat": "46.88211", "stop_lon": "19.69491"}, "3439444181": {"stop_name": "Szövetség utca", "stop_lat": "46.882216", "stop_lon": "19.694315"}, "3439444185": {"stop_name": "Szigeti köz", "stop_lat": "46.9206645", "stop_lon": "19.6119181"}, "3439444186": {"stop_name": "Szigeti köz", "stop_lat": "46.920918", "stop_lon": "19.611525"}, "3439444187": {"stop_name": "Szilágyi utca", "stop_lat": "46.9176381", "stop_lon": "19.7121639"}, "3439444189": {"stop_name": "Szolnokihegy", "stop_lat": "46.91017", "stop_lon": "19.72695"}, "3439444190": {"stop_name": "Szolnokihegy", "stop_lat": "46.910246", "stop_lon": "19.726045"}, "3439444195": {"stop_name": "Széchenyi körút", "stop_lat": "46.90713", "stop_lon": "19.68272"}, "3439444196": {"stop_name": "Széchenyi körút", "stop_lat": "46.91215", "stop_lon": "19.68648"}, "3439444197": {"stop_name": "Széktó utca", "stop_lat": "46.9001065", "stop_lon": "19.6508505"}, "3439444198": {"stop_name": "Széktó utca", "stop_lat": "46.9008434", "stop_lon": "19.6509909"}, "3439444199": {"stop_name": "Széktó-Park", "stop_lat": "46.9030793", "stop_lon": "19.6678908"}, "3439444200": {"stop_name": "Széles köz", "stop_lat": "46.908942", "stop_lon": "19.637864"}, "3439444201": {"stop_name": "Széles köz", "stop_lat": "46.9091328", "stop_lon": "19.6375163"}, "3439444203": {"stop_name": "Szüret utca", "stop_lat": "46.89755", "stop_lon": "19.64885"}, "3439444204": {"stop_name": "Szüret utca", "stop_lat": "46.89789", "stop_lon": "19.64924"}, "3439444205": {"stop_name": "Szőlészeti Kutató", "stop_lat": "46.96468", "stop_lon": "19.72419"}, "3439444206": {"stop_name": "Szőlőfürt Fogadó", "stop_lat": "46.91122", "stop_lon": "19.7214"}, "3439444207": {"stop_name": "Szőlőfürt Fogadó", "stop_lat": "46.9117131", "stop_lon": "19.7194867"}, "3439444213": {"stop_name": "Talfája köz", "stop_lat": "46.92343", "stop_lon": "19.691606"}, "3439444220": {"stop_name": "Tanüzem", "stop_lat": "46.8749507", "stop_lon": "19.6995787"}, "3439444222": {"stop_name": "Tatár sor", "stop_lat": "46.902321", "stop_lon": "19.6758"}, "3439444223": {"stop_name": "Teleki Pál tér", "stop_lat": "46.9124", "stop_lon": "19.70783"}, "3439444225": {"stop_name": "Természet Háza", "stop_lat": "46.9179222", "stop_lon": "19.7044728"}, "3439444229": {"stop_name": "Műszaki vizsgabázis", "stop_lat": "46.886353", "stop_lon": "19.675546"}, "3439444230": {"stop_name": "Műszaki vizsgabázis", "stop_lat": "46.8863365", "stop_lon": "19.6756793"}, "3439444231": {"stop_name": "Táncsics kollégium", "stop_lat": "46.90864", "stop_lon": "19.67929"}, "3439444234": {"stop_name": "Kodály Iskola", "stop_lat": "46.8994922", "stop_lon": "19.6758364"}, "3439444236": {"stop_name": "Törökfái", "stop_lat": "46.83362", "stop_lon": "19.6505998"}, "3439444237": {"stop_name": "Törökfái", "stop_lat": "46.8339208", "stop_lon": "19.6500019"}, "3439444240": {"stop_name": "Univer Coop", "stop_lat": "46.889257", "stop_lon": "19.67668"}, "3439444241": {"stop_name": "Univer Coop", "stop_lat": "46.8893731", "stop_lon": "19.6768806"}, "3439444242": {"stop_name": "Univer", "stop_lat": "46.8917119", "stop_lon": "19.710149"}, "3439444249": {"stop_name": "Vasúti átjáró", "stop_lat": "46.90824", "stop_lon": "19.73983"}, "3439444250": {"stop_name": "Vasúti átjáró", "stop_lat": "46.90832", "stop_lon": "19.73925"}, "3439444261": {"stop_name": "Víztorony", "stop_lat": "46.90997", "stop_lon": "19.70155"}, "3439444262": {"stop_name": "Víztorony", "stop_lat": "46.91064", "stop_lon": "19.70057"}, "3439444264": {"stop_name": "Wéber Ede utca", "stop_lat": "46.894363", "stop_lon": "19.672088"}, "3439444265": {"stop_name": "Wéber Ede utca", "stop_lat": "46.894552", "stop_lon": "19.672325"}, "3439444270": {"stop_name": "Zápor utca", "stop_lat": "46.8910591", "stop_lon": "19.6404086"}, "3439444271": {"stop_name": "Zápor utca", "stop_lat": "46.891256", "stop_lon": "19.640845"}, "3439444538": {"stop_name": "Rákóczi iskola", "stop_lat": "46.90017", "stop_lon": "19.6873"}, "3439444539": {"stop_name": "Rákóczi iskola", "stop_lat": "46.90071", "stop_lon": "19.68681"}, "3439444542": {"stop_name": "Élelmiszerbolt", "stop_lat": "46.894847", "stop_lon": "19.6995195"}, "3439444543": {"stop_name": "Élelmiszerbolt", "stop_lat": "46.895104", "stop_lon": "19.699543"}, "3439444547": {"stop_name": "Úrihegy", "stop_lat": "46.918068", "stop_lon": "19.61986"}, "3439444548": {"stop_name": "Úrihegy", "stop_lat": "46.9184511", "stop_lon": "19.618398"}, "3439444552": {"stop_name": "28-as km-kő", "stop_lat": "46.9453801", "stop_lon": "19.7116406"}, "3439444553": {"stop_name": "28-as km-kő", "stop_lat": "46.945985", "stop_lon": "19.711837"}, "3439444556": {"stop_name": "7-es km kő", "stop_lat": "46.84355", "stop_lon": "19.6561"}, "3439444557": {"stop_name": "7-es km kő", "stop_lat": "46.8446876", "stop_lon": "19.6570154"}, "3487784314": {"stop_name": "Lajtha utca", "stop_lat": "46.9209686", "stop_lon": "19.6880542"}, "3487816350": {"stop_name": "Egyetem (KVK)", "stop_lat": "46.918486", "stop_lon": "19.6916139"}, "3550669464": {"stop_name": "Nagy Lajos király körút", "stop_lat": "46.9280243", "stop_lon": "19.6873843"}, "3742941849": {"stop_name": "Bagoly Egészségház", "stop_lat": "46.8915193", "stop_lon": "19.6565061"}, "3878504837": {"stop_name": "Honvéd Kórház", "stop_lat": "46.9109132", "stop_lon": "19.6814961"}, "3878504849": {"stop_name": "Tesco", "stop_lat": "46.9332429", "stop_lon": "19.6652108"}, "3932500937": {"stop_name": "SZTK", "stop_lat": "46.9112297", "stop_lon": "19.6730174"}, "4137255599": {"stop_name": "Aradi vértanúk tere", "stop_lat": "46.9150575", "stop_lon": "19.6772985"}, "4137255611": {"stop_name": "Planetárium", "stop_lat": "46.9125831", "stop_lon": "19.6736517"}, "4137255616": {"stop_name": "Bányai Gimnázium", "stop_lat": "46.908367", "stop_lon": "19.6805986"}, "4137255617": {"stop_name": "Bányai Gimnázium", "stop_lat": "46.9086595", "stop_lon": "19.6798753"}, "4170683922": {"stop_name": "Gizella tér", "stop_lat": "46.8982103", "stop_lon": "19.7216042"}, "4202610646": {"stop_name": "Hetényegyháza, ABC", "stop_lat": "46.9271005", "stop_lon": "19.5836157"}, "4202687139": {"stop_name": "Miklóstelepi bejáróút", "stop_lat": "46.9123818", "stop_lon": "19.6293429"}, "4205573589": {"stop_name": "Hunyadi ABC", "stop_lat": "46.9198778", "stop_lon": "19.7070316"}, "4205573595": {"stop_name": "Hunyadi ABC", "stop_lat": "46.9203535", "stop_lon": "19.7076964"}, "4205620989": {"stop_name": "Szilágyi utca", "stop_lat": "46.9175292", "stop_lon": "19.7122297"}, "4209124058": {"stop_name": "Mátis utca", "stop_lat": "46.8983505", "stop_lon": "19.6886209"}, "4209124059": {"stop_name": "Mátis utca", "stop_lat": "46.897575", "stop_lon": "19.687917"}, "4242158331": {"stop_name": "Alsószéktó 245.", "stop_lat": "46.8788609", "stop_lon": "19.6690078"}, "4242158332": {"stop_name": "Alsószéktó 205.", "stop_lat": "46.882644", "stop_lon": "19.6724042"}, "4242158366": {"stop_name": "Inkubátorház", "stop_lat": "46.8983846", "stop_lon": "19.6803859"}, "4262054329": {"stop_name": "Univer", "stop_lat": "46.891647", "stop_lon": "19.7103166"}, "4262054334": {"stop_name": "Lőtér", "stop_lat": "46.8912865", "stop_lon": "19.7029117"}, "4280652891": {"stop_name": "Szélmalom csárda", "stop_lat": "46.8838305", "stop_lon": "19.705434"}, "4283125994": {"stop_name": "Belsőballószög", "stop_lat": "46.8698613", "stop_lon": "19.6782991"}, "4283126017": {"stop_name": "Kerekes tanya", "stop_lat": "46.855937", "stop_lon": "19.6636812"}, "4283156693": {"stop_name": "Horváth tanya", "stop_lat": "46.8298512", "stop_lon": "19.6576202"}, "4283156694": {"stop_name": "Erdőalja dűlő", "stop_lat": "46.8248779", "stop_lon": "19.6620673"}, "4283156695": {"stop_name": "Golovics tanya", "stop_lat": "46.8175612", "stop_lon": "19.6725834"}, "4333192186": {"stop_name": "Kodály Iskola", "stop_lat": "46.8996712", "stop_lon": "19.6757678"}, "4349827493": {"stop_name": "Domb Áruház", "stop_lat": "46.9147337", "stop_lon": "19.6620261"}, "4398218289": {"stop_name": "Búzakalász utca", "stop_lat": "46.8790177", "stop_lon": "19.6981446"}, "4405134886": {"stop_name": "Daimler IV. kapu", "stop_lat": "46.8630717", "stop_lon": "19.7039097"}, "4405139239": {"stop_name": "Tanüzem", "stop_lat": "46.8749356", "stop_lon": "19.699717"}, "4710098008": {"stop_name": "Hegy utca", "stop_lat": "46.929925", "stop_lon": "19.6900139"}, "4710098009": {"stop_name": "Nagy Lajos király körút", "stop_lat": "46.9275291", "stop_lon": "19.6911243"}, "4902981671": {"stop_name": "Miklóstelep, határút", "stop_lat": "46.9077229", "stop_lon": "19.6191866"}, "4902981675": {"stop_name": "Miklóstelep, bolt", "stop_lat": "46.9047782", "stop_lon": "19.6131761"}, "4921340558": {"stop_name": "Kisfái, Tanüzem", "stop_lat": "46.9078095", "stop_lon": "19.7798958"}, "4921340572": {"stop_name": "Határút", "stop_lat": "46.9174673", "stop_lon": "19.7905375"}, "4987037002": {"stop_name": "Fuvar utca", "stop_lat": "46.888467", "stop_lon": "19.7105799"}, "4987037102": {"stop_name": "Nissin Foods", "stop_lat": "46.8846257", "stop_lon": "19.7148902"}, "4987037103": {"stop_name": "Knorr-Bremse", "stop_lat": "46.8828522", "stop_lon": "19.7107242"}, "4987037104": {"stop_name": "AXON", "stop_lat": "46.8820343", "stop_lon": "19.7089294"}, "4987037105": {"stop_name": "AXON", "stop_lat": "46.8818299", "stop_lon": "19.7086737"}, "5560268882": {"stop_name": "Virágoskert utca", "stop_lat": "46.8733013", "stop_lon": "19.6792784"}, "5700704109": {"stop_name": "Felsőcsalános 26.", "stop_lat": "46.884043", "stop_lon": "19.6355188"}, "5700704110": {"stop_name": "Egyetértés utca", "stop_lat": "46.9020496", "stop_lon": "19.6458131"}, "5700704111": {"stop_name": "Egyetértés utca", "stop_lat": "46.9024931", "stop_lon": "19.6465319"}, "5700704112": {"stop_name": "Háromszögi tér", "stop_lat": "46.8960822", "stop_lon": "19.6409476"}, "5700704113": {"stop_name": "Háromszögi tér", "stop_lat": "46.8964451", "stop_lon": "19.6412158"}, "5700704114": {"stop_name": "Kadafalva, Darázs utca", "stop_lat": "46.8738951", "stop_lon": "19.609209"}, "5700704115": {"stop_name": "Kadafalva, Darázs utca", "stop_lat": "46.8737649", "stop_lon": "19.6091822"}, "5700704116": {"stop_name": "Kadafalva, Sirály utca", "stop_lat": "46.8769736", "stop_lon": "19.6073502"}, "5700704117": {"stop_name": "Kadafalva, Sirály utca", "stop_lat": "46.8771972", "stop_lon": "19.6071142"}, "5700704118": {"stop_name": "Kadafalva, Mókus utca", "stop_lat": "46.8803461", "stop_lon": "19.6052125"}, "5700704119": {"stop_name": "Virágoskert utca", "stop_lat": "46.8734422", "stop_lon": "19.6794265"}, "5700704523": {"stop_name": "Corvina utca", "stop_lat": "46.918317", "stop_lon": "19.7104704"}, "5700704524": {"stop_name": "Serleg utca", "stop_lat": "46.9201637", "stop_lon": "19.7018015"}, "5700704528": {"stop_name": "Vereckei utca", "stop_lat": "46.9280509", "stop_lon": "19.6932674"}, "5700704529": {"stop_name": "Fodros utca", "stop_lat": "46.9298885", "stop_lon": "19.6876285"}, "5700704535": {"stop_name": "Mintagyümölcsös", "stop_lat": "46.9102692", "stop_lon": "19.7747134"}, "5700704536": {"stop_name": "Mintagyümölcsös", "stop_lat": "46.9102856", "stop_lon": "19.7743244"}, "5700704548": {"stop_name": "Daimler IV. kapu bejáró út", "stop_lat": "46.8646256", "stop_lon": "19.7028275"}, "5700704549": {"stop_name": "Daimler IV. kapu bejáró út", "stop_lat": "46.8644605", "stop_lon": "19.7026223"}, "5700704551": {"stop_name": "SMP", "stop_lat": "46.8631052", "stop_lon": "19.6962131"}, "6077657265": {"stop_name": "Könyves Kálmán körút 55.", "stop_lat": "46.8898283", "stop_lon": "19.6698993"}, "6077657266": {"stop_name": "Tündérrózsa utca", "stop_lat": "46.8589925", "stop_lon": "19.667539"}, "6077657267": {"stop_name": "Tündérrózsa utca", "stop_lat": "46.8588677", "stop_lon": "19.6675135"}, "6169548843": {"stop_name": "Daimler I. kapu", "stop_lat": "46.8694997", "stop_lon": "19.7170845"}, "6169548868": {"stop_name": "Széchenyi tér", "stop_lat": "46.9082135", "stop_lon": "19.6901269"}, "6169548869": {"stop_name": "Széchenyi tér", "stop_lat": "46.9079744", "stop_lon": "19.6897798"}, "6169548870": {"stop_name": "Széchenyi tér", "stop_lat": "46.9078405", "stop_lon": "19.689567"}, "6169548871": {"stop_name": "Széchenyi tér", "stop_lat": "46.9084698", "stop_lon": "19.6902529"}, "6169548872": {"stop_name": "Széchenyi tér", "stop_lat": "46.9083321", "stop_lon": "19.6900457"}, "6169548873": {"stop_name": "Széchenyi tér", "stop_lat": "46.9081179", "stop_lon": "19.689693"}, "6169548874": {"stop_name": "Széchenyi tér", "stop_lat": "46.908422", "stop_lon": "19.6899925"}, "6169548875": {"stop_name": "Széchenyi tér", "stop_lat": "46.9082039", "stop_lon": "19.689679"}, "6169548876": {"stop_name": "Széchenyi tér", "stop_lat": "46.9080127", "stop_lon": "19.6893598"}, "6169549085": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9139487", "stop_lon": "19.6984215"}, "6169549086": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9137742", "stop_lon": "19.6983719"}, "6169549087": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9136035", "stop_lon": "19.6983241"}, "6169549088": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9139977", "stop_lon": "19.698144"}, "6169549089": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9139977", "stop_lon": "19.6978647"}, "6169549090": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9140818", "stop_lon": "19.698076"}, "6169549091": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9139098", "stop_lon": "19.6979069"}, "6169549092": {"stop_name": "Noszlopy Gáspár park", "stop_lat": "46.9138069", "stop_lon": "19.6979988"}, "7385080146": {"stop_name": "Közlekedési Központ", "stop_lat": "46.8865764", "stop_lon": "19.7119832"}, "7385080147": {"stop_name": "Közlekedési Központ", "stop_lat": "46.8863693", "stop_lon": "19.7119912"}, "7650045438": {"stop_name": "Daimler II. kapu", "stop_lat": "46.8680768", "stop_lon": "19.7039188"}}
+{
+  "276210875": {
+    "stop_name": "Auchan Áruház",
+    "stop_lat": "46.8877909",
+    "stop_lon": "19.6356647"
+  },
+  "1685778511": {
+    "stop_name": "Szent Család Plébánia",
+    "stop_lat": "46.918579",
+    "stop_lon": "19.6755767"
+  },
+  "1685778523": {
+    "stop_name": "Balaton utca",
+    "stop_lat": "46.915187",
+    "stop_lon": "19.6805096"
+  },
+  "1685778524": {
+    "stop_name": "SZTK",
+    "stop_lat": "46.9120922",
+    "stop_lon": "19.6732688"
+  },
+  "1685778525": {
+    "stop_name": "Szent Imre utca",
+    "stop_lat": "46.9129648",
+    "stop_lon": "19.6833772"
+  },
+  "1685778536": {
+    "stop_name": "Aradi vértanúk tere",
+    "stop_lat": "46.9156421",
+    "stop_lon": "19.6784711"
+  },
+  "1685810196": {
+    "stop_name": "Nyíri úti kórház",
+    "stop_lat": "46.9105903",
+    "stop_lon": "19.6752571"
+  },
+  "1685810199": {
+    "stop_name": "Nyíri úti kórház",
+    "stop_lat": "46.9104977",
+    "stop_lon": "19.6758319"
+  },
+  "1685810200": {
+    "stop_name": "Honvéd Kórház",
+    "stop_lat": "46.9107241",
+    "stop_lon": "19.6813335"
+  },
+  "1685810201": {
+    "stop_name": "Domb Áruház",
+    "stop_lat": "46.9151357",
+    "stop_lon": "19.6611991"
+  },
+  "1685810202": {
+    "stop_name": "Domb Áruház",
+    "stop_lat": "46.9150818",
+    "stop_lon": "19.6633681"
+  },
+  "1685810204": {
+    "stop_name": "Benkó-domb",
+    "stop_lat": "46.9142236",
+    "stop_lon": "19.6685843"
+  },
+  "1685810205": {
+    "stop_name": "Benkó-domb",
+    "stop_lat": "46.9137789",
+    "stop_lon": "19.6674966"
+  },
+  "1824669159": {
+    "stop_name": "Margaréta Otthon",
+    "stop_lat": "46.9167672",
+    "stop_lon": "19.6618659"
+  },
+  "2302381304": {
+    "stop_name": "Gyulai köz",
+    "stop_lat": "46.8802837",
+    "stop_lon": "19.6270242"
+  },
+  "2302381307": {
+    "stop_name": "Kadafalva, iskola",
+    "stop_lat": "46.8764465",
+    "stop_lon": "19.6173553"
+  },
+  "2447702444": {
+    "stop_name": "Kristály tér",
+    "stop_lat": "46.9168845",
+    "stop_lon": "19.6721857"
+  },
+  "2447702446": {
+    "stop_name": "Szent Imre utca",
+    "stop_lat": "46.9138779",
+    "stop_lon": "19.682395"
+  },
+  "2447702447": {
+    "stop_name": "Irinyi utca",
+    "stop_lat": "46.9167524",
+    "stop_lon": "19.6787948"
+  },
+  "2447719682": {
+    "stop_name": "Kristály tér",
+    "stop_lat": "46.9173862",
+    "stop_lon": "19.6731648"
+  },
+  "2447719683": {
+    "stop_name": "Szent Család Plébánia",
+    "stop_lat": "46.9183024",
+    "stop_lon": "19.6757844"
+  },
+  "2447719684": {
+    "stop_name": "Irinyi utca",
+    "stop_lat": "46.9170442",
+    "stop_lon": "19.6779784"
+  },
+  "2448932268": {
+    "stop_name": "Cifrapalota",
+    "stop_lat": "46.9088697",
+    "stop_lon": "19.6954334"
+  },
+  "2453164534": {
+    "stop_name": "Vasútállomás",
+    "stop_lat": "46.9132061",
+    "stop_lon": "19.7003801"
+  },
+  "2453164535": {
+    "stop_name": "Cifrapalota",
+    "stop_lat": "46.9089807",
+    "stop_lon": "19.6948183"
+  },
+  "2453164536": {
+    "stop_name": "Piaristák tere",
+    "stop_lat": "46.9099951",
+    "stop_lon": "19.691361"
+  },
+  "2453164537": {
+    "stop_name": "Naiv Művészeti Múzeum",
+    "stop_lat": "46.9060387",
+    "stop_lon": "19.6875474"
+  },
+  "2453164538": {
+    "stop_name": "Katona Gimnázium",
+    "stop_lat": "46.9020306",
+    "stop_lon": "19.6823455"
+  },
+  "2453164540": {
+    "stop_name": "Egyetem (GAMF)",
+    "stop_lat": "46.897001",
+    "stop_lon": "19.6688607"
+  },
+  "2453164541": {
+    "stop_name": "Hullám Vendéglő",
+    "stop_lat": "46.8941566",
+    "stop_lon": "19.6618173"
+  },
+  "2453164543": {
+    "stop_name": "Kullai köz",
+    "stop_lat": "46.8906962",
+    "stop_lon": "19.6503123"
+  },
+  "2453164544": {
+    "stop_name": "Kadafalvi út",
+    "stop_lat": "46.8874749",
+    "stop_lon": "19.639743"
+  },
+  "2453164545": {
+    "stop_name": "Vályogvető utca",
+    "stop_lat": "46.8848954",
+    "stop_lon": "19.6432712"
+  },
+  "2453164547": {
+    "stop_name": "Homokbánya Kollégium",
+    "stop_lat": "46.8830313",
+    "stop_lon": "19.6454638"
+  },
+  "2458135337": {
+    "stop_name": "Planetárium",
+    "stop_lat": "46.9131903",
+    "stop_lon": "19.6749134"
+  },
+  "2458135338": {
+    "stop_name": "Szövetség tér",
+    "stop_lat": "46.9117512",
+    "stop_lon": "19.6849283"
+  },
+  "2543393157": {
+    "stop_name": "Lestár Szakközépiskola",
+    "stop_lat": "46.8863896",
+    "stop_lon": "19.644719"
+  },
+  "2543393165": {
+    "stop_name": "Téglás utca",
+    "stop_lat": "46.888788",
+    "stop_lon": "19.6435948"
+  },
+  "2543393171": {
+    "stop_name": "Kullai köz",
+    "stop_lat": "46.8907008",
+    "stop_lon": "19.6515461"
+  },
+  "2543393179": {
+    "stop_name": "Bagoly Egészségház",
+    "stop_lat": "46.8914795",
+    "stop_lon": "19.6566025"
+  },
+  "2543393186": {
+    "stop_name": "Hullám Vendéglő",
+    "stop_lat": "46.8945857",
+    "stop_lon": "19.6634161"
+  },
+  "2543393191": {
+    "stop_name": "Egyetem (GAMF)",
+    "stop_lat": "46.8968478",
+    "stop_lon": "19.6690282"
+  },
+  "2543393204": {
+    "stop_name": "Petőfi utca",
+    "stop_lat": "46.9032915",
+    "stop_lon": "19.6852929"
+  },
+  "2543393205": {
+    "stop_name": "Dobó körút",
+    "stop_lat": "46.904765",
+    "stop_lon": "19.6888748"
+  },
+  "2543393210": {
+    "stop_name": "Katona József Színház",
+    "stop_lat": "46.9058656",
+    "stop_lon": "19.6939086"
+  },
+  "2543393235": {
+    "stop_name": "Vasútállomás",
+    "stop_lat": "46.9134198",
+    "stop_lon": "19.7003492"
+  },
+  "2551945834": {
+    "stop_name": "Katona József Színház",
+    "stop_lat": "46.9062029",
+    "stop_lon": "19.6946119"
+  },
+  "2551945839": {
+    "stop_name": "Ótemető utca",
+    "stop_lat": "46.9052292",
+    "stop_lon": "19.6993635"
+  },
+  "2551945843": {
+    "stop_name": "Kurucz tér",
+    "stop_lat": "46.9035819",
+    "stop_lon": "19.7025356"
+  },
+  "2551945847": {
+    "stop_name": "Műkerti sétány",
+    "stop_lat": "46.9008741",
+    "stop_lon": "19.7086411"
+  },
+  "2551945851": {
+    "stop_name": "Platán Otthon",
+    "stop_lat": "46.899029",
+    "stop_lon": "19.7149551"
+  },
+  "2551945855": {
+    "stop_name": "Gizella tér",
+    "stop_lat": "46.8978283",
+    "stop_lon": "19.7205217"
+  },
+  "2551945859": {
+    "stop_name": "Csokor utca",
+    "stop_lat": "46.8981376",
+    "stop_lon": "19.7258021"
+  },
+  "2551945863": {
+    "stop_name": "Klebelsberg utca",
+    "stop_lat": "46.8965826",
+    "stop_lon": "19.7302433"
+  },
+  "2551945867": {
+    "stop_name": "Kertvárosi Iskola",
+    "stop_lat": "46.895522",
+    "stop_lon": "19.7261387"
+  },
+  "2551945871": {
+    "stop_name": "Vadaskert",
+    "stop_lat": "46.8971656",
+    "stop_lon": "19.7209504"
+  },
+  "2551945875": {
+    "stop_name": "Platán Otthon",
+    "stop_lat": "46.8991067",
+    "stop_lon": "19.7150171"
+  },
+  "2551945878": {
+    "stop_name": "Műkerti sétány",
+    "stop_lat": "46.901133",
+    "stop_lon": "19.7087567"
+  },
+  "2551945882": {
+    "stop_name": "Kurucz tér",
+    "stop_lat": "46.901955",
+    "stop_lon": "19.7058112"
+  },
+  "2551945886": {
+    "stop_name": "Csongrádi utcai Óvoda",
+    "stop_lat": "46.9049584",
+    "stop_lon": "19.7006145"
+  },
+  "2551945889": {
+    "stop_name": "Posta",
+    "stop_lat": "46.9077272",
+    "stop_lon": "19.6957619"
+  },
+  "2815348411": {
+    "stop_name": "Bodri kereszt",
+    "stop_lat": "46.8632957",
+    "stop_lon": "19.6731097"
+  },
+  "2815348412": {
+    "stop_name": "Bodri kereszt",
+    "stop_lat": "46.8633332",
+    "stop_lon": "19.6729817"
+  },
+  "2907992089": {
+    "stop_name": "Mintagyümölcsös",
+    "stop_lat": "46.9105353",
+    "stop_lon": "19.7742308"
+  },
+  "2907992090": {
+    "stop_name": "Mintagyümölcsös",
+    "stop_lat": "46.9105775",
+    "stop_lon": "19.7750972"
+  },
+  "3071916405": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.908158",
+    "stop_lon": "19.6898926"
+  },
+  "3139118397": {
+    "stop_name": "Budai kapu",
+    "stop_lat": "46.9167025",
+    "stop_lon": "19.687557"
+  },
+  "3139118398": {
+    "stop_name": "Lajtha utca",
+    "stop_lat": "46.9212233",
+    "stop_lon": "19.6882173"
+  },
+  "3139118399": {
+    "stop_name": "Gázló utca",
+    "stop_lat": "46.9248058",
+    "stop_lon": "19.6884189"
+  },
+  "3139118400": {
+    "stop_name": "Nagy Lajos király körút",
+    "stop_lat": "46.9275459",
+    "stop_lon": "19.6881328"
+  },
+  "3139118402": {
+    "stop_name": "Miklovics falu",
+    "stop_lat": "46.9281017",
+    "stop_lon": "19.6847925"
+  },
+  "3139118403": {
+    "stop_name": "Gázló utca",
+    "stop_lat": "46.9249607",
+    "stop_lon": "19.6881436"
+  },
+  "3186534121": {
+    "stop_name": "Budai kapu",
+    "stop_lat": "46.9170361",
+    "stop_lon": "19.6878433"
+  },
+  "3313371822": {
+    "stop_name": "Kadafalvi út",
+    "stop_lat": "46.8872638",
+    "stop_lon": "19.6399783"
+  },
+  "3439442191": {
+    "stop_name": "Jegenyefa utca",
+    "stop_lat": "46.9572124",
+    "stop_lon": "19.7276556"
+  },
+  "3439443241": {
+    "stop_name": "Adóhivatal",
+    "stop_lat": "46.90469",
+    "stop_lon": "19.70521"
+  },
+  "3439443242": {
+    "stop_name": "Agrikon",
+    "stop_lat": "46.8882126",
+    "stop_lon": "19.701274"
+  },
+  "3439443243": {
+    "stop_name": "Agrikon",
+    "stop_lat": "46.88915",
+    "stop_lon": "19.70064"
+  },
+  "3439443244": {
+    "stop_name": "Csókás utca",
+    "stop_lat": "46.8873596",
+    "stop_lon": "19.6836726"
+  },
+  "3439443245": {
+    "stop_name": "Akácfa utca",
+    "stop_lat": "46.9075",
+    "stop_lon": "19.68079"
+  },
+  "3439443248": {
+    "stop_name": "Alsószéktó 205.",
+    "stop_lat": "46.8825237",
+    "stop_lon": "19.6721456"
+  },
+  "3439443249": {
+    "stop_name": "Alsószéktó 245.",
+    "stop_lat": "46.8788429",
+    "stop_lon": "19.6687651"
+  },
+  "3439443250": {
+    "stop_name": "Aluljáró",
+    "stop_lat": "46.911931",
+    "stop_lon": "19.707127"
+  },
+  "3439443251": {
+    "stop_name": "Aluljáró",
+    "stop_lat": "46.91215",
+    "stop_lon": "19.70821"
+  },
+  "3439443253": {
+    "stop_name": "Szélmalom csárda",
+    "stop_lat": "46.8847073",
+    "stop_lon": "19.7049108"
+  },
+  "3439443256": {
+    "stop_name": "Autójavító",
+    "stop_lat": "46.925733",
+    "stop_lon": "19.669617"
+  },
+  "3439443257": {
+    "stop_name": "Autójavító",
+    "stop_lat": "46.926217",
+    "stop_lon": "19.668667"
+  },
+  "3439443263": {
+    "stop_name": "BARNEVÁL",
+    "stop_lat": "46.9194889",
+    "stop_lon": "19.6969233"
+  },
+  "3439443264": {
+    "stop_name": "BARNEVÁL",
+    "stop_lat": "46.9198835",
+    "stop_lon": "19.6971898"
+  },
+  "3439443267": {
+    "stop_name": "Belsőballószög",
+    "stop_lat": "46.870087",
+    "stop_lon": "19.6786166"
+  },
+  "3439443269": {
+    "stop_name": "Rendelőintézet",
+    "stop_lat": "46.909997",
+    "stop_lon": "19.6711579"
+  },
+  "3439443270": {
+    "stop_name": "Benzinkút",
+    "stop_lat": "46.923453",
+    "stop_lon": "19.674638"
+  },
+  "3439443271": {
+    "stop_name": "Benzinkút",
+    "stop_lat": "46.923785",
+    "stop_lon": "19.673732"
+  },
+  "3439443278": {
+    "stop_name": "Bodzai utca",
+    "stop_lat": "46.89262",
+    "stop_lon": "19.70097"
+  },
+  "3439443279": {
+    "stop_name": "Bodzai utca",
+    "stop_lat": "46.8930421",
+    "stop_lon": "19.7005772"
+  },
+  "3439443280": {
+    "stop_name": "Béke iskola",
+    "stop_lat": "46.9004039",
+    "stop_lon": "19.6836402"
+  },
+  "3439443281": {
+    "stop_name": "Béke iskola",
+    "stop_lat": "46.9008836",
+    "stop_lon": "19.6844386"
+  },
+  "3439443282": {
+    "stop_name": "Borbás",
+    "stop_lat": "46.9302366",
+    "stop_lon": "19.7871289"
+  },
+  "3439443290": {
+    "stop_name": "Veres Péter utca",
+    "stop_lat": "46.957148",
+    "stop_lon": "19.721457"
+  },
+  "3439443291": {
+    "stop_name": "Veres Péter utca",
+    "stop_lat": "46.957713",
+    "stop_lon": "19.72223"
+  },
+  "3439443293": {
+    "stop_name": "Barka utca",
+    "stop_lat": "46.954256",
+    "stop_lon": "19.71866"
+  },
+  "3439443294": {
+    "stop_name": "Barka utca",
+    "stop_lat": "46.954487",
+    "stop_lon": "19.719121"
+  },
+  "3439443295": {
+    "stop_name": "Béke fasor",
+    "stop_lat": "46.91532",
+    "stop_lon": "19.71035"
+  },
+  "3439443297": {
+    "stop_name": "Mérleg utca",
+    "stop_lat": "46.8839152",
+    "stop_lon": "19.6707481"
+  },
+  "3439443298": {
+    "stop_name": "Búzakalász utca",
+    "stop_lat": "46.8788821",
+    "stop_lon": "19.6984608"
+  },
+  "3439443299": {
+    "stop_name": "Búzavirág utca",
+    "stop_lat": "46.8940891",
+    "stop_lon": "19.6442902"
+  },
+  "3439443300": {
+    "stop_name": "Búzavirág utca",
+    "stop_lat": "46.8941289",
+    "stop_lon": "19.6445233"
+  },
+  "3439443302": {
+    "stop_name": "Ceglédi úti Óvoda",
+    "stop_lat": "46.917058",
+    "stop_lon": "19.69681"
+  },
+  "3439443303": {
+    "stop_name": "Ceglédi úti Óvoda",
+    "stop_lat": "46.9175286",
+    "stop_lon": "19.6966722"
+  },
+  "3439443309": {
+    "stop_name": "Csabagyöngye utca",
+    "stop_lat": "46.895768",
+    "stop_lon": "19.6466234"
+  },
+  "3439443310": {
+    "stop_name": "Csabagyöngye utca",
+    "stop_lat": "46.89598",
+    "stop_lon": "19.64674"
+  },
+  "3439443312": {
+    "stop_name": "Cserép utca",
+    "stop_lat": "46.90638",
+    "stop_lon": "19.6765"
+  },
+  "3439443313": {
+    "stop_name": "Csókás utca",
+    "stop_lat": "46.888038",
+    "stop_lon": "19.6842463"
+  },
+  "3439443317": {
+    "stop_name": "Czolner köz",
+    "stop_lat": "46.9165103",
+    "stop_lon": "19.7037432"
+  },
+  "3439443318": {
+    "stop_name": "TÜZÉP",
+    "stop_lat": "46.888667",
+    "stop_lon": "19.671667"
+  },
+  "3439443320": {
+    "stop_name": "Daimler I. kapu",
+    "stop_lat": "46.8693007",
+    "stop_lon": "19.7169651"
+  },
+  "3439443321": {
+    "stop_name": "Daimler II. kapu",
+    "stop_lat": "46.868373",
+    "stop_lon": "19.703982"
+  },
+  "3439443322": {
+    "stop_name": "Damjanich iskola",
+    "stop_lat": "46.88445",
+    "stop_lon": "19.68273"
+  },
+  "3439443330": {
+    "stop_name": "Szultán utca",
+    "stop_lat": "46.89918",
+    "stop_lon": "19.69097"
+  },
+  "3439443335": {
+    "stop_name": "Erdőalja dűlő",
+    "stop_lat": "46.8248815",
+    "stop_lon": "19.6619166"
+  },
+  "3439443337": {
+    "stop_name": "Erzsébet körút",
+    "stop_lat": "46.9019022",
+    "stop_lon": "19.7008973"
+  },
+  "3439443354": {
+    "stop_name": "Fábián köz",
+    "stop_lat": "46.93081",
+    "stop_lon": "19.70357"
+  },
+  "3439443355": {
+    "stop_name": "Fábián köz",
+    "stop_lat": "46.93134",
+    "stop_lon": "19.70374"
+  },
+  "3439443356": {
+    "stop_name": "Félegyházi vízfolyás",
+    "stop_lat": "46.8214922",
+    "stop_lon": "19.6667662"
+  },
+  "3439443357": {
+    "stop_name": "Félegyházi vízfolyás",
+    "stop_lat": "46.8218785",
+    "stop_lon": "19.6663339"
+  },
+  "3439443361": {
+    "stop_name": "Fürdő utca",
+    "stop_lat": "46.90461",
+    "stop_lon": "19.67398"
+  },
+  "3439443368": {
+    "stop_name": "Gokart stadion",
+    "stop_lat": "46.8824098",
+    "stop_lon": "19.6976499"
+  },
+  "3439443369": {
+    "stop_name": "Golovics tanya",
+    "stop_lat": "46.8176156",
+    "stop_lon": "19.6726517"
+  },
+  "3439443373": {
+    "stop_name": "Gyógypedagógia",
+    "stop_lat": "46.90626",
+    "stop_lon": "19.66893"
+  },
+  "3439443374": {
+    "stop_name": "Gyökér utca",
+    "stop_lat": "46.949947",
+    "stop_lon": "19.71483"
+  },
+  "3439443375": {
+    "stop_name": "Gyökér utca",
+    "stop_lat": "46.950828",
+    "stop_lon": "19.715777"
+  },
+  "3439443379": {
+    "stop_name": "Halasi úti felüljáró",
+    "stop_lat": "46.8913",
+    "stop_lon": "19.68556"
+  },
+  "3439443380": {
+    "stop_name": "Halasi úti felüljáró",
+    "stop_lat": "46.891307",
+    "stop_lon": "19.68644"
+  },
+  "3439443389": {
+    "stop_name": "Határút",
+    "stop_lat": "46.917507",
+    "stop_lon": "19.790393"
+  },
+  "3439443391": {
+    "stop_name": "Hetényegyháza, ABC",
+    "stop_lat": "46.927336",
+    "stop_lon": "19.5828967"
+  },
+  "3439443392": {
+    "stop_name": "Hetényegyháza, Fény utca",
+    "stop_lat": "46.9285562",
+    "stop_lon": "19.5736154"
+  },
+  "3439443393": {
+    "stop_name": "Hetényegyháza, Fény utca",
+    "stop_lat": "46.92872",
+    "stop_lon": "19.57324"
+  },
+  "3439443394": {
+    "stop_name": "Hetényegyháza, végállomás",
+    "stop_lat": "46.9312152",
+    "stop_lon": "19.5603268"
+  },
+  "3439443395": {
+    "stop_name": "Hetényegyháza, Újtelep",
+    "stop_lat": "46.9294772",
+    "stop_lon": "19.5672083"
+  },
+  "3439443396": {
+    "stop_name": "Hetényegyháza, Újtelep",
+    "stop_lat": "46.92953",
+    "stop_lon": "19.56757"
+  },
+  "3439443397": {
+    "stop_name": "Hetényegyháza, óvoda",
+    "stop_lat": "46.9254063",
+    "stop_lon": "19.5953387"
+  },
+  "3439443398": {
+    "stop_name": "Hetényegyháza, óvoda",
+    "stop_lat": "46.9256173",
+    "stop_lon": "19.594612"
+  },
+  "3439443404": {
+    "stop_name": "Horváth tanya",
+    "stop_lat": "46.829873",
+    "stop_lon": "19.657752"
+  },
+  "3439443408": {
+    "stop_name": "Hunyadi János tér",
+    "stop_lat": "46.91475",
+    "stop_lon": "19.70436"
+  },
+  "3439443418": {
+    "stop_name": "Hétvezér utca",
+    "stop_lat": "46.904085",
+    "stop_lon": "19.676287"
+  },
+  "3439443420": {
+    "stop_name": "Hőközpont",
+    "stop_lat": "46.9173",
+    "stop_lon": "19.680827"
+  },
+  "3439443421": {
+    "stop_name": "Hőközpont",
+    "stop_lat": "46.9173222",
+    "stop_lon": "19.6806095"
+  },
+  "3439443429": {
+    "stop_name": "Inkubátorház",
+    "stop_lat": "46.89818",
+    "stop_lon": "19.6804"
+  },
+  "3439443432": {
+    "stop_name": "Gyöngyvirág utca",
+    "stop_lat": "46.90114",
+    "stop_lon": "19.72083"
+  },
+  "3439443433": {
+    "stop_name": "Gyöngyvirág utca",
+    "stop_lat": "46.90142",
+    "stop_lon": "19.7206254"
+  },
+  "3439443434": {
+    "stop_name": "Egyetem (GAMF)",
+    "stop_lat": "46.89815",
+    "stop_lon": "19.66977"
+  },
+  "3439443501": {
+    "stop_name": "Kada Elek utca",
+    "stop_lat": "46.917",
+    "stop_lon": "19.692383"
+  },
+  "3439443502": {
+    "stop_name": "Kada Elek utca",
+    "stop_lat": "46.917383",
+    "stop_lon": "19.6909"
+  },
+  "3439443504": {
+    "stop_name": "Kadafalva, iskola",
+    "stop_lat": "46.8763032",
+    "stop_lon": "19.6173943"
+  },
+  "3439443513": {
+    "stop_name": "Mathiász Iskola",
+    "stop_lat": "46.9640797",
+    "stop_lon": "19.7266679"
+  },
+  "3439443519": {
+    "stop_name": "Felsőcsalános 26.",
+    "stop_lat": "46.8838773",
+    "stop_lon": "19.6354883"
+  },
+  "3439443520": {
+    "stop_name": "Gyulai köz",
+    "stop_lat": "46.8801719",
+    "stop_lon": "19.6270539"
+  },
+  "3439443533": {
+    "stop_name": "Kenyérgyár",
+    "stop_lat": "46.89162",
+    "stop_lon": "19.6983"
+  },
+  "3439443534": {
+    "stop_name": "Kenyérgyár",
+    "stop_lat": "46.891669",
+    "stop_lon": "19.6980764"
+  },
+  "3439443535": {
+    "stop_name": "Kerekes tanya",
+    "stop_lat": "46.8558514",
+    "stop_lon": "19.6632799"
+  },
+  "3439443537": {
+    "stop_name": "Egyetem (KVK)",
+    "stop_lat": "46.9183689",
+    "stop_lon": "19.6916595"
+  },
+  "3439443540": {
+    "stop_name": "Kinizsi utca",
+    "stop_lat": "46.89782",
+    "stop_lon": "19.698"
+  },
+  "3439443541": {
+    "stop_name": "Kinizsi utca",
+    "stop_lat": "46.8989662",
+    "stop_lon": "19.6972479"
+  },
+  "3439443543": {
+    "stop_name": "Kisdobos utca",
+    "stop_lat": "46.89063",
+    "stop_lon": "19.667725"
+  },
+  "3439443544": {
+    "stop_name": "Kisfái, végállomás",
+    "stop_lat": "46.9045649",
+    "stop_lon": "19.7865991"
+  },
+  "3439443545": {
+    "stop_name": "Kisfái, Tanüzem",
+    "stop_lat": "46.907761",
+    "stop_lon": "19.7797223"
+  },
+  "3439443546": {
+    "stop_name": "Kiskőrösi úti lovasiskola",
+    "stop_lat": "46.8731897",
+    "stop_lon": "19.6647229"
+  },
+  "3439443549": {
+    "stop_name": "VER-BAU",
+    "stop_lat": "46.88512",
+    "stop_lon": "19.70391"
+  },
+  "3439443550": {
+    "stop_name": "Kocsis Pál utca",
+    "stop_lat": "46.9610943",
+    "stop_lon": "19.7209975"
+  },
+  "3439443553": {
+    "stop_name": "Konzervgyár",
+    "stop_lat": "46.91282",
+    "stop_lon": "19.71325"
+  },
+  "3439443554": {
+    "stop_name": "Konzervgyár",
+    "stop_lat": "46.9129679",
+    "stop_lon": "19.7128702"
+  },
+  "3439443557": {
+    "stop_name": "Vértes utca",
+    "stop_lat": "46.9281",
+    "stop_lon": "19.70172"
+  },
+  "3439443558": {
+    "stop_name": "Vértes utca",
+    "stop_lat": "46.92847",
+    "stop_lon": "19.7018"
+  },
+  "3439443568": {
+    "stop_name": "Könyves Kálmán körút 64.",
+    "stop_lat": "46.890683",
+    "stop_lon": "19.668867"
+  },
+  "3439443571": {
+    "stop_name": "Köztemető II. kapu",
+    "stop_lat": "46.921907",
+    "stop_lon": "19.709679"
+  },
+  "3439443572": {
+    "stop_name": "Köztemető I. kapu",
+    "stop_lat": "46.9196084",
+    "stop_lon": "19.7141237"
+  },
+  "3439443578": {
+    "stop_name": "Ladánybenei elágazás",
+    "stop_lat": "46.92896",
+    "stop_lon": "19.66429"
+  },
+  "3439443579": {
+    "stop_name": "Ladánybenei elágazás",
+    "stop_lat": "46.92904",
+    "stop_lon": "19.6645"
+  },
+  "3439443589": {
+    "stop_name": "Lőtér",
+    "stop_lat": "46.8913821",
+    "stop_lon": "19.7028261"
+  },
+  "3439443795": {
+    "stop_name": "Matkó, végállomás",
+    "stop_lat": "46.8145064",
+    "stop_lon": "19.6772627"
+  },
+  "3439443796": {
+    "stop_name": "Matkói út",
+    "stop_lat": "46.889773",
+    "stop_lon": "19.690132"
+  },
+  "3439443799": {
+    "stop_name": "METRO",
+    "stop_lat": "46.935053",
+    "stop_lon": "19.706137"
+  },
+  "3439443800": {
+    "stop_name": "METRO",
+    "stop_lat": "46.9359865",
+    "stop_lon": "19.7067698"
+  },
+  "3439443802": {
+    "stop_name": "Mezei utca",
+    "stop_lat": "46.9009184",
+    "stop_lon": "19.6975808"
+  },
+  "3439443803": {
+    "stop_name": "Mezei utca",
+    "stop_lat": "46.9017822",
+    "stop_lon": "19.6952932"
+  },
+  "3439443804": {
+    "stop_name": "Mezei utca",
+    "stop_lat": "46.9020953",
+    "stop_lon": "19.6945677"
+  },
+  "3439443805": {
+    "stop_name": "Miklóstelep, forduló",
+    "stop_lat": "46.9029687",
+    "stop_lon": "19.6081423"
+  },
+  "3439443806": {
+    "stop_name": "Miklóstelep, bolt",
+    "stop_lat": "46.9046515",
+    "stop_lon": "19.6131405"
+  },
+  "3439443807": {
+    "stop_name": "Miklóstelep, határút",
+    "stop_lat": "46.90777",
+    "stop_lon": "19.6194825"
+  },
+  "3439443808": {
+    "stop_name": "Miklóstelepi bejáróút",
+    "stop_lat": "46.9126353",
+    "stop_lon": "19.6292191"
+  },
+  "3439443809": {
+    "stop_name": "Hévíz utca",
+    "stop_lat": "46.92153",
+    "stop_lon": "19.691221"
+  },
+  "3439443813": {
+    "stop_name": "Ipar utca",
+    "stop_lat": "46.8906983",
+    "stop_lon": "19.7141179"
+  },
+  "3439443814": {
+    "stop_name": "Raktár utca",
+    "stop_lat": "46.891451",
+    "stop_lon": "19.70651"
+  },
+  "3439443815": {
+    "stop_name": "Raktár utca",
+    "stop_lat": "46.8915837",
+    "stop_lon": "19.707124"
+  },
+  "3439443824": {
+    "stop_name": "MÉH-telep",
+    "stop_lat": "46.891853",
+    "stop_lon": "19.677688"
+  },
+  "3439443825": {
+    "stop_name": "MÉH-telep",
+    "stop_lat": "46.8918914",
+    "stop_lon": "19.6778838"
+  },
+  "3439443828": {
+    "stop_name": "Március 15. utca",
+    "stop_lat": "46.9202662",
+    "stop_lon": "19.6771115"
+  },
+  "3439443829": {
+    "stop_name": "Március 15. utca",
+    "stop_lat": "46.9214111",
+    "stop_lon": "19.6779637"
+  },
+  "3439443830": {
+    "stop_name": "Mária kápolna",
+    "stop_lat": "46.909645",
+    "stop_lon": "19.652324"
+  },
+  "3439443831": {
+    "stop_name": "Mária kápolna",
+    "stop_lat": "46.90987",
+    "stop_lon": "19.65261"
+  },
+  "3439443832": {
+    "stop_name": "Mária körút",
+    "stop_lat": "46.9037",
+    "stop_lon": "19.68285"
+  },
+  "3439443837": {
+    "stop_name": "Mátra utca",
+    "stop_lat": "46.9204626",
+    "stop_lon": "19.6933568"
+  },
+  "3439443840": {
+    "stop_name": "Corvina utca",
+    "stop_lat": "46.91864",
+    "stop_lon": "19.71032"
+  },
+  "3439443841": {
+    "stop_name": "Mátyás király körút 43.",
+    "stop_lat": "46.92108",
+    "stop_lon": "19.707"
+  },
+  "3439443842": {
+    "stop_name": "Mátyás király körút",
+    "stop_lat": "46.9237602",
+    "stop_lon": "19.6986604"
+  },
+  "3439443843": {
+    "stop_name": "Mátyás király körút",
+    "stop_lat": "46.925047",
+    "stop_lon": "19.6997209"
+  },
+  "3439443848": {
+    "stop_name": "Bíró Lajos utca",
+    "stop_lat": "46.8868577",
+    "stop_lon": "19.6657977"
+  },
+  "3439443855": {
+    "stop_name": "Nagy tanya",
+    "stop_lat": "46.922869",
+    "stop_lon": "19.606026"
+  },
+  "3439443856": {
+    "stop_name": "Nagy tanya",
+    "stop_lat": "46.92334",
+    "stop_lon": "19.605238"
+  },
+  "3439443862": {
+    "stop_name": "Közlekedési Hatóság",
+    "stop_lat": "46.9044243",
+    "stop_lon": "19.7200637"
+  },
+  "3439443863": {
+    "stop_name": "Közlekedési Hatóság",
+    "stop_lat": "46.90498",
+    "stop_lon": "19.7202"
+  },
+  "3439443870": {
+    "stop_name": "Bethlen körút",
+    "stop_lat": "46.91274",
+    "stop_lon": "19.69847"
+  },
+  "3439443871": {
+    "stop_name": "Bethlen körút",
+    "stop_lat": "46.91294",
+    "stop_lon": "19.69861"
+  },
+  "3439443873": {
+    "stop_name": "Nyitrai utcai Óvoda",
+    "stop_lat": "46.923202",
+    "stop_lon": "19.693828"
+  },
+  "3439443887": {
+    "stop_name": "Orvosi rendelő",
+    "stop_lat": "46.9149253",
+    "stop_lon": "19.6901454"
+  },
+  "3439443888": {
+    "stop_name": "Orvosi rendelő",
+    "stop_lat": "46.9157",
+    "stop_lon": "19.69085"
+  },
+  "3439443891": {
+    "stop_name": "Palota utca",
+    "stop_lat": "46.9233111",
+    "stop_lon": "19.7025656"
+  },
+  "3439444096": {
+    "stop_name": "Petőfi Nyomda",
+    "stop_lat": "46.8923952",
+    "stop_lon": "19.6997626"
+  },
+  "3439444097": {
+    "stop_name": "Petőfi Nyomda",
+    "stop_lat": "46.8925071",
+    "stop_lon": "19.6998003"
+  },
+  "3439444100": {
+    "stop_name": "Sarolta utca",
+    "stop_lat": "46.9087146",
+    "stop_lon": "19.7192309"
+  },
+  "3439444101": {
+    "stop_name": "Phoenix Mecano",
+    "stop_lat": "46.90808",
+    "stop_lon": "19.7165459"
+  },
+  "3439444102": {
+    "stop_name": "Phoenix Pharma",
+    "stop_lat": "46.886943",
+    "stop_lon": "19.690008"
+  },
+  "3439444109": {
+    "stop_name": "Platán utca",
+    "stop_lat": "46.96284",
+    "stop_lon": "19.7293"
+  },
+  "3439444126": {
+    "stop_name": "Reptéri Óvoda",
+    "stop_lat": "46.9083311",
+    "stop_lon": "19.7470998"
+  },
+  "3439444127": {
+    "stop_name": "Reptéri Óvoda",
+    "stop_lat": "46.90845",
+    "stop_lon": "19.74757"
+  },
+  "3439444130": {
+    "stop_name": "Repülőtér",
+    "stop_lat": "46.90695",
+    "stop_lon": "19.75111"
+  },
+  "3439444131": {
+    "stop_name": "Repülőtér",
+    "stop_lat": "46.907317",
+    "stop_lon": "19.75141"
+  },
+  "3439444132": {
+    "stop_name": "Repülőtér",
+    "stop_lat": "46.9082997",
+    "stop_lon": "19.7527992"
+  },
+  "3439444133": {
+    "stop_name": "Rezeda utca",
+    "stop_lat": "46.9599713",
+    "stop_lon": "19.7320629"
+  },
+  "3439444138": {
+    "stop_name": "Rávágy tér",
+    "stop_lat": "46.900133",
+    "stop_lon": "19.689517"
+  },
+  "3439444139": {
+    "stop_name": "Rávágy tér",
+    "stop_lat": "46.900197",
+    "stop_lon": "19.689186"
+  },
+  "3439444143": {
+    "stop_name": "Róna utca",
+    "stop_lat": "46.889417",
+    "stop_lon": "19.663367"
+  },
+  "3439444146": {
+    "stop_name": "SOS Gyermekfalu",
+    "stop_lat": "46.896417",
+    "stop_lon": "19.659247"
+  },
+  "3439444147": {
+    "stop_name": "SOS Gyermekfalu",
+    "stop_lat": "46.89744",
+    "stop_lon": "19.65769"
+  },
+  "3439444150": {
+    "stop_name": "Sanyó presszó",
+    "stop_lat": "46.8827051",
+    "stop_lon": "19.6901385"
+  },
+  "3439444151": {
+    "stop_name": "Sanyó presszó",
+    "stop_lat": "46.882943",
+    "stop_lon": "19.689769"
+  },
+  "3439444154": {
+    "stop_name": "Mária körút",
+    "stop_lat": "46.903767",
+    "stop_lon": "19.683"
+  },
+  "3439444155": {
+    "stop_name": "Serleg utca",
+    "stop_lat": "46.92115",
+    "stop_lon": "19.70056"
+  },
+  "3439444164": {
+    "stop_name": "Kecskeméti Fürdő",
+    "stop_lat": "46.9013816",
+    "stop_lon": "19.6673452"
+  },
+  "3439444167": {
+    "stop_name": "Sutusfalu",
+    "stop_lat": "46.9057804",
+    "stop_lon": "19.6477506"
+  },
+  "3439444168": {
+    "stop_name": "Sutusfalu",
+    "stop_lat": "46.9062478",
+    "stop_lon": "19.6470115"
+  },
+  "3439444180": {
+    "stop_name": "Szövetség utca",
+    "stop_lat": "46.88211",
+    "stop_lon": "19.69491"
+  },
+  "3439444181": {
+    "stop_name": "Szövetség utca",
+    "stop_lat": "46.882216",
+    "stop_lon": "19.694315"
+  },
+  "3439444185": {
+    "stop_name": "Szigeti köz",
+    "stop_lat": "46.9206645",
+    "stop_lon": "19.6119181"
+  },
+  "3439444186": {
+    "stop_name": "Szigeti köz",
+    "stop_lat": "46.920918",
+    "stop_lon": "19.611525"
+  },
+  "3439444187": {
+    "stop_name": "Szilágyi utca",
+    "stop_lat": "46.9176381",
+    "stop_lon": "19.7121639"
+  },
+  "3439444189": {
+    "stop_name": "Szolnokihegy",
+    "stop_lat": "46.91017",
+    "stop_lon": "19.72695"
+  },
+  "3439444190": {
+    "stop_name": "Szolnokihegy",
+    "stop_lat": "46.910246",
+    "stop_lon": "19.726045"
+  },
+  "3439444195": {
+    "stop_name": "Széchenyi körút",
+    "stop_lat": "46.90713",
+    "stop_lon": "19.68272"
+  },
+  "3439444196": {
+    "stop_name": "Széchenyi körút",
+    "stop_lat": "46.91215",
+    "stop_lon": "19.68648"
+  },
+  "3439444197": {
+    "stop_name": "Széktó utca",
+    "stop_lat": "46.9001065",
+    "stop_lon": "19.6508505"
+  },
+  "3439444198": {
+    "stop_name": "Széktó utca",
+    "stop_lat": "46.9008434",
+    "stop_lon": "19.6509909"
+  },
+  "3439444199": {
+    "stop_name": "Széktó-Park",
+    "stop_lat": "46.9030793",
+    "stop_lon": "19.6678908"
+  },
+  "3439444200": {
+    "stop_name": "Széles köz",
+    "stop_lat": "46.908942",
+    "stop_lon": "19.637864"
+  },
+  "3439444201": {
+    "stop_name": "Széles köz",
+    "stop_lat": "46.9091328",
+    "stop_lon": "19.6375163"
+  },
+  "3439444203": {
+    "stop_name": "Szüret utca",
+    "stop_lat": "46.89755",
+    "stop_lon": "19.64885"
+  },
+  "3439444204": {
+    "stop_name": "Szüret utca",
+    "stop_lat": "46.89789",
+    "stop_lon": "19.64924"
+  },
+  "3439444205": {
+    "stop_name": "Szőlészeti Kutató",
+    "stop_lat": "46.96468",
+    "stop_lon": "19.72419"
+  },
+  "3439444206": {
+    "stop_name": "Szőlőfürt Fogadó",
+    "stop_lat": "46.91122",
+    "stop_lon": "19.7214"
+  },
+  "3439444207": {
+    "stop_name": "Szőlőfürt Fogadó",
+    "stop_lat": "46.9117131",
+    "stop_lon": "19.7194867"
+  },
+  "3439444213": {
+    "stop_name": "Talfája köz",
+    "stop_lat": "46.92343",
+    "stop_lon": "19.691606"
+  },
+  "3439444220": {
+    "stop_name": "Tanüzem",
+    "stop_lat": "46.8749507",
+    "stop_lon": "19.6995787"
+  },
+  "3439444222": {
+    "stop_name": "Tatár sor",
+    "stop_lat": "46.902321",
+    "stop_lon": "19.6758"
+  },
+  "3439444223": {
+    "stop_name": "Teleki Pál tér",
+    "stop_lat": "46.9124",
+    "stop_lon": "19.70783"
+  },
+  "3439444225": {
+    "stop_name": "Természet Háza",
+    "stop_lat": "46.9179222",
+    "stop_lon": "19.7044728"
+  },
+  "3439444229": {
+    "stop_name": "Műszaki vizsgabázis",
+    "stop_lat": "46.886353",
+    "stop_lon": "19.675546"
+  },
+  "3439444230": {
+    "stop_name": "Műszaki vizsgabázis",
+    "stop_lat": "46.8863365",
+    "stop_lon": "19.6756793"
+  },
+  "3439444231": {
+    "stop_name": "Táncsics kollégium",
+    "stop_lat": "46.90864",
+    "stop_lon": "19.67929"
+  },
+  "3439444234": {
+    "stop_name": "Kodály Iskola",
+    "stop_lat": "46.8994922",
+    "stop_lon": "19.6758364"
+  },
+  "3439444236": {
+    "stop_name": "Törökfái",
+    "stop_lat": "46.83362",
+    "stop_lon": "19.6505998"
+  },
+  "3439444237": {
+    "stop_name": "Törökfái",
+    "stop_lat": "46.8339208",
+    "stop_lon": "19.6500019"
+  },
+  "3439444240": {
+    "stop_name": "Univer Coop",
+    "stop_lat": "46.889257",
+    "stop_lon": "19.67668"
+  },
+  "3439444241": {
+    "stop_name": "Univer Coop",
+    "stop_lat": "46.8893731",
+    "stop_lon": "19.6768806"
+  },
+  "3439444242": {
+    "stop_name": "Univer",
+    "stop_lat": "46.8917119",
+    "stop_lon": "19.710149"
+  },
+  "3439444249": {
+    "stop_name": "Vasúti átjáró",
+    "stop_lat": "46.90824",
+    "stop_lon": "19.73983"
+  },
+  "3439444250": {
+    "stop_name": "Vasúti átjáró",
+    "stop_lat": "46.90832",
+    "stop_lon": "19.73925"
+  },
+  "3439444261": {
+    "stop_name": "Víztorony",
+    "stop_lat": "46.90997",
+    "stop_lon": "19.70155"
+  },
+  "3439444262": {
+    "stop_name": "Víztorony",
+    "stop_lat": "46.91064",
+    "stop_lon": "19.70057"
+  },
+  "3439444264": {
+    "stop_name": "Wéber Ede utca",
+    "stop_lat": "46.894363",
+    "stop_lon": "19.672088"
+  },
+  "3439444265": {
+    "stop_name": "Wéber Ede utca",
+    "stop_lat": "46.894552",
+    "stop_lon": "19.672325"
+  },
+  "3439444270": {
+    "stop_name": "Zápor utca",
+    "stop_lat": "46.8910591",
+    "stop_lon": "19.6404086"
+  },
+  "3439444271": {
+    "stop_name": "Zápor utca",
+    "stop_lat": "46.891256",
+    "stop_lon": "19.640845"
+  },
+  "3439444538": {
+    "stop_name": "Rákóczi iskola",
+    "stop_lat": "46.90017",
+    "stop_lon": "19.6873"
+  },
+  "3439444539": {
+    "stop_name": "Rákóczi iskola",
+    "stop_lat": "46.90071",
+    "stop_lon": "19.68681"
+  },
+  "3439444542": {
+    "stop_name": "Élelmiszerbolt",
+    "stop_lat": "46.894847",
+    "stop_lon": "19.6995195"
+  },
+  "3439444543": {
+    "stop_name": "Élelmiszerbolt",
+    "stop_lat": "46.895104",
+    "stop_lon": "19.699543"
+  },
+  "3439444547": {
+    "stop_name": "Úrihegy",
+    "stop_lat": "46.918068",
+    "stop_lon": "19.61986"
+  },
+  "3439444548": {
+    "stop_name": "Úrihegy",
+    "stop_lat": "46.9184511",
+    "stop_lon": "19.618398"
+  },
+  "3439444552": {
+    "stop_name": "28-as km-kő",
+    "stop_lat": "46.9453801",
+    "stop_lon": "19.7116406"
+  },
+  "3439444553": {
+    "stop_name": "28-as km-kő",
+    "stop_lat": "46.945985",
+    "stop_lon": "19.711837"
+  },
+  "3439444556": {
+    "stop_name": "7-es km kő",
+    "stop_lat": "46.84355",
+    "stop_lon": "19.6561"
+  },
+  "3439444557": {
+    "stop_name": "7-es km kő",
+    "stop_lat": "46.8446876",
+    "stop_lon": "19.6570154"
+  },
+  "3487784314": {
+    "stop_name": "Lajtha utca",
+    "stop_lat": "46.9209686",
+    "stop_lon": "19.6880542"
+  },
+  "3487816350": {
+    "stop_name": "Egyetem (KVK)",
+    "stop_lat": "46.918486",
+    "stop_lon": "19.6916139"
+  },
+  "3550669464": {
+    "stop_name": "Nagy Lajos király körút",
+    "stop_lat": "46.9280243",
+    "stop_lon": "19.6873843"
+  },
+  "3742941849": {
+    "stop_name": "Bagoly Egészségház",
+    "stop_lat": "46.8915193",
+    "stop_lon": "19.6565061"
+  },
+  "3878504837": {
+    "stop_name": "Honvéd Kórház",
+    "stop_lat": "46.9109132",
+    "stop_lon": "19.6814961"
+  },
+  "3878504849": {
+    "stop_name": "Tesco",
+    "stop_lat": "46.9332429",
+    "stop_lon": "19.6652108"
+  },
+  "3932500937": {
+    "stop_name": "SZTK",
+    "stop_lat": "46.9112297",
+    "stop_lon": "19.6730174"
+  },
+  "4137255599": {
+    "stop_name": "Aradi vértanúk tere",
+    "stop_lat": "46.9150575",
+    "stop_lon": "19.6772985"
+  },
+  "4137255611": {
+    "stop_name": "Planetárium",
+    "stop_lat": "46.9125831",
+    "stop_lon": "19.6736517"
+  },
+  "4137255616": {
+    "stop_name": "Bányai Gimnázium",
+    "stop_lat": "46.908367",
+    "stop_lon": "19.6805986"
+  },
+  "4137255617": {
+    "stop_name": "Bányai Gimnázium",
+    "stop_lat": "46.9086595",
+    "stop_lon": "19.6798753"
+  },
+  "4170683922": {
+    "stop_name": "Gizella tér",
+    "stop_lat": "46.8982103",
+    "stop_lon": "19.7216042"
+  },
+  "4202610646": {
+    "stop_name": "Hetényegyháza, ABC",
+    "stop_lat": "46.9271005",
+    "stop_lon": "19.5836157"
+  },
+  "4202687139": {
+    "stop_name": "Miklóstelepi bejáróút",
+    "stop_lat": "46.9123818",
+    "stop_lon": "19.6293429"
+  },
+  "4205573589": {
+    "stop_name": "Hunyadi ABC",
+    "stop_lat": "46.9198778",
+    "stop_lon": "19.7070316"
+  },
+  "4205573595": {
+    "stop_name": "Hunyadi ABC",
+    "stop_lat": "46.9203535",
+    "stop_lon": "19.7076964"
+  },
+  "4205620989": {
+    "stop_name": "Szilágyi utca",
+    "stop_lat": "46.9175292",
+    "stop_lon": "19.7122297"
+  },
+  "4209124058": {
+    "stop_name": "Mátis utca",
+    "stop_lat": "46.8983505",
+    "stop_lon": "19.6886209"
+  },
+  "4209124059": {
+    "stop_name": "Mátis utca",
+    "stop_lat": "46.897575",
+    "stop_lon": "19.687917"
+  },
+  "4242158331": {
+    "stop_name": "Alsószéktó 245.",
+    "stop_lat": "46.8788609",
+    "stop_lon": "19.6690078"
+  },
+  "4242158332": {
+    "stop_name": "Alsószéktó 205.",
+    "stop_lat": "46.882644",
+    "stop_lon": "19.6724042"
+  },
+  "4242158366": {
+    "stop_name": "Inkubátorház",
+    "stop_lat": "46.8983846",
+    "stop_lon": "19.6803859"
+  },
+  "4262054329": {
+    "stop_name": "Univer",
+    "stop_lat": "46.891647",
+    "stop_lon": "19.7103166"
+  },
+  "4262054334": {
+    "stop_name": "Lőtér",
+    "stop_lat": "46.8912865",
+    "stop_lon": "19.7029117"
+  },
+  "4280652891": {
+    "stop_name": "Szélmalom csárda",
+    "stop_lat": "46.8838305",
+    "stop_lon": "19.705434"
+  },
+  "4283125994": {
+    "stop_name": "Belsőballószög",
+    "stop_lat": "46.8698613",
+    "stop_lon": "19.6782991"
+  },
+  "4283126017": {
+    "stop_name": "Kerekes tanya",
+    "stop_lat": "46.855937",
+    "stop_lon": "19.6636812"
+  },
+  "4283156693": {
+    "stop_name": "Horváth tanya",
+    "stop_lat": "46.8298512",
+    "stop_lon": "19.6576202"
+  },
+  "4283156694": {
+    "stop_name": "Erdőalja dűlő",
+    "stop_lat": "46.8248779",
+    "stop_lon": "19.6620673"
+  },
+  "4283156695": {
+    "stop_name": "Golovics tanya",
+    "stop_lat": "46.8175612",
+    "stop_lon": "19.6725834"
+  },
+  "4333192186": {
+    "stop_name": "Kodály Iskola",
+    "stop_lat": "46.8996712",
+    "stop_lon": "19.6757678"
+  },
+  "4349827493": {
+    "stop_name": "Domb Áruház",
+    "stop_lat": "46.9147337",
+    "stop_lon": "19.6620261"
+  },
+  "4398218289": {
+    "stop_name": "Búzakalász utca",
+    "stop_lat": "46.8790177",
+    "stop_lon": "19.6981446"
+  },
+  "4405134886": {
+    "stop_name": "Daimler IV. kapu",
+    "stop_lat": "46.8630717",
+    "stop_lon": "19.7039097"
+  },
+  "4405139239": {
+    "stop_name": "Tanüzem",
+    "stop_lat": "46.8749356",
+    "stop_lon": "19.699717"
+  },
+  "4710098008": {
+    "stop_name": "Hegy utca",
+    "stop_lat": "46.929925",
+    "stop_lon": "19.6900139"
+  },
+  "4710098009": {
+    "stop_name": "Nagy Lajos király körút",
+    "stop_lat": "46.9275291",
+    "stop_lon": "19.6911243"
+  },
+  "4902981671": {
+    "stop_name": "Miklóstelep, határút",
+    "stop_lat": "46.9077229",
+    "stop_lon": "19.6191866"
+  },
+  "4902981675": {
+    "stop_name": "Miklóstelep, bolt",
+    "stop_lat": "46.9047782",
+    "stop_lon": "19.6131761"
+  },
+  "4921340558": {
+    "stop_name": "Kisfái, Tanüzem",
+    "stop_lat": "46.9078095",
+    "stop_lon": "19.7798958"
+  },
+  "4921340572": {
+    "stop_name": "Határút",
+    "stop_lat": "46.9174673",
+    "stop_lon": "19.7905375"
+  },
+  "4987037002": {
+    "stop_name": "Fuvar utca",
+    "stop_lat": "46.888467",
+    "stop_lon": "19.7105799"
+  },
+  "4987037102": {
+    "stop_name": "Nissin Foods",
+    "stop_lat": "46.8846257",
+    "stop_lon": "19.7148902"
+  },
+  "4987037103": {
+    "stop_name": "Knorr-Bremse",
+    "stop_lat": "46.8828522",
+    "stop_lon": "19.7107242"
+  },
+  "4987037104": {
+    "stop_name": "AXON",
+    "stop_lat": "46.8820343",
+    "stop_lon": "19.7089294"
+  },
+  "4987037105": {
+    "stop_name": "AXON",
+    "stop_lat": "46.8818299",
+    "stop_lon": "19.7086737"
+  },
+  "5560268882": {
+    "stop_name": "Virágoskert utca",
+    "stop_lat": "46.8733013",
+    "stop_lon": "19.6792784"
+  },
+  "5700704109": {
+    "stop_name": "Felsőcsalános 26.",
+    "stop_lat": "46.884043",
+    "stop_lon": "19.6355188"
+  },
+  "5700704110": {
+    "stop_name": "Egyetértés utca",
+    "stop_lat": "46.9020496",
+    "stop_lon": "19.6458131"
+  },
+  "5700704111": {
+    "stop_name": "Egyetértés utca",
+    "stop_lat": "46.9024931",
+    "stop_lon": "19.6465319"
+  },
+  "5700704112": {
+    "stop_name": "Háromszögi tér",
+    "stop_lat": "46.8960822",
+    "stop_lon": "19.6409476"
+  },
+  "5700704113": {
+    "stop_name": "Háromszögi tér",
+    "stop_lat": "46.8964451",
+    "stop_lon": "19.6412158"
+  },
+  "5700704114": {
+    "stop_name": "Kadafalva, Darázs utca",
+    "stop_lat": "46.8738951",
+    "stop_lon": "19.609209"
+  },
+  "5700704115": {
+    "stop_name": "Kadafalva, Darázs utca",
+    "stop_lat": "46.8737649",
+    "stop_lon": "19.6091822"
+  },
+  "5700704116": {
+    "stop_name": "Kadafalva, Sirály utca",
+    "stop_lat": "46.8769736",
+    "stop_lon": "19.6073502"
+  },
+  "5700704117": {
+    "stop_name": "Kadafalva, Sirály utca",
+    "stop_lat": "46.8771972",
+    "stop_lon": "19.6071142"
+  },
+  "5700704118": {
+    "stop_name": "Kadafalva, Mókus utca",
+    "stop_lat": "46.8803461",
+    "stop_lon": "19.6052125"
+  },
+  "5700704119": {
+    "stop_name": "Virágoskert utca",
+    "stop_lat": "46.8734422",
+    "stop_lon": "19.6794265"
+  },
+  "5700704523": {
+    "stop_name": "Corvina utca",
+    "stop_lat": "46.918317",
+    "stop_lon": "19.7104704"
+  },
+  "5700704524": {
+    "stop_name": "Serleg utca",
+    "stop_lat": "46.9201637",
+    "stop_lon": "19.7018015"
+  },
+  "5700704528": {
+    "stop_name": "Vereckei utca",
+    "stop_lat": "46.9280509",
+    "stop_lon": "19.6932674"
+  },
+  "5700704529": {
+    "stop_name": "Fodros utca",
+    "stop_lat": "46.9298885",
+    "stop_lon": "19.6876285"
+  },
+  "5700704535": {
+    "stop_name": "Mintagyümölcsös",
+    "stop_lat": "46.9102692",
+    "stop_lon": "19.7747134"
+  },
+  "5700704536": {
+    "stop_name": "Mintagyümölcsös",
+    "stop_lat": "46.9102856",
+    "stop_lon": "19.7743244"
+  },
+  "5700704548": {
+    "stop_name": "Daimler IV. kapu bejáró út",
+    "stop_lat": "46.8646256",
+    "stop_lon": "19.7028275"
+  },
+  "5700704549": {
+    "stop_name": "Daimler IV. kapu bejáró út",
+    "stop_lat": "46.8644605",
+    "stop_lon": "19.7026223"
+  },
+  "5700704551": {
+    "stop_name": "SMP",
+    "stop_lat": "46.8631052",
+    "stop_lon": "19.6962131"
+  },
+  "6077657265": {
+    "stop_name": "Könyves Kálmán körút 55.",
+    "stop_lat": "46.8898283",
+    "stop_lon": "19.6698993"
+  },
+  "6077657266": {
+    "stop_name": "Tündérrózsa utca",
+    "stop_lat": "46.8589925",
+    "stop_lon": "19.667539"
+  },
+  "6077657267": {
+    "stop_name": "Tündérrózsa utca",
+    "stop_lat": "46.8588677",
+    "stop_lon": "19.6675135"
+  },
+  "6169548843": {
+    "stop_name": "Daimler I. kapu",
+    "stop_lat": "46.8694997",
+    "stop_lon": "19.7170845"
+  },
+  "6169548868": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9082135",
+    "stop_lon": "19.6901269"
+  },
+  "6169548869": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9079744",
+    "stop_lon": "19.6897798"
+  },
+  "6169548870": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9078405",
+    "stop_lon": "19.689567"
+  },
+  "6169548871": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9084698",
+    "stop_lon": "19.6902529"
+  },
+  "6169548872": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9083321",
+    "stop_lon": "19.6900457"
+  },
+  "6169548873": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9081179",
+    "stop_lon": "19.689693"
+  },
+  "6169548874": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.908422",
+    "stop_lon": "19.6899925"
+  },
+  "6169548875": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9082039",
+    "stop_lon": "19.689679"
+  },
+  "6169548876": {
+    "stop_name": "Széchenyi tér",
+    "stop_lat": "46.9080127",
+    "stop_lon": "19.6893598"
+  },
+  "6169549085": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9139487",
+    "stop_lon": "19.6984215"
+  },
+  "6169549086": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9137742",
+    "stop_lon": "19.6983719"
+  },
+  "6169549087": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9136035",
+    "stop_lon": "19.6983241"
+  },
+  "6169549088": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9139977",
+    "stop_lon": "19.698144"
+  },
+  "6169549089": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9139977",
+    "stop_lon": "19.6978647"
+  },
+  "6169549090": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9140818",
+    "stop_lon": "19.698076"
+  },
+  "6169549091": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9139098",
+    "stop_lon": "19.6979069"
+  },
+  "6169549092": {
+    "stop_name": "Noszlopy Gáspár park",
+    "stop_lat": "46.9138069",
+    "stop_lon": "19.6979988"
+  },
+  "7385080146": {
+    "stop_name": "Közlekedési Központ",
+    "stop_lat": "46.8865764",
+    "stop_lon": "19.7119832"
+  },
+  "7385080147": {
+    "stop_name": "Közlekedési Központ",
+    "stop_lat": "46.8863693",
+    "stop_lon": "19.7119912"
+  },
+  "7650045438": {
+    "stop_name": "Daimler II. kapu",
+    "stop_lat": "46.8680768",
+    "stop_lon": "19.7039188"
+  }
+}
