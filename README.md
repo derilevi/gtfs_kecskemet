@@ -8,6 +8,6 @@ Az adatbázis szabadon felhasználható, a forrás megjelölésével.
 
 Adatok forrása:
 * Kecskeméti Közlekedési Központ menetrend füzete
-* OpenStreetMap
+* OpenStreetMap ([Copyright](https://www.openstreetmap.org/copyright))
 
 Köszönet az OpenStreetMap közreműködőknek!
