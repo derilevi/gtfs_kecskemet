@@ -1,5 +1,6 @@
 import datetime
 import json
+import os
 import zipfile
 
 def create_agency():
@@ -50,8 +51,17 @@ def create_routes():
 	routes_txt.close()
 
 def create_shapes():
-	# TODO
-	pass
+	source_json = open("data/shapes.json","r",encoding="utf8")
+	data = json.load(source_json)
+	source_json.close()
+	shapes_txt = open("shapes.txt","w",encoding="utf8")
+	shapes_txt.write("shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence\n")
+	for item_key, item in data.items():
+		seq = 0
+		for coord in item:
+			shapes_txt.write(",".join([item_key, str(coord[0]), str(coord[1]), str(seq)])+"\n")
+			seq += 1
+	shapes_txt.close()
 
 def get_unique_stops():
 	source_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
@@ -88,7 +98,7 @@ def create_stop_times_trips():
 	stops_json.close()
 	
 	trips_txt = open("trips.txt","w",encoding="utf8")
-	trips_txt.write("route_id,service_id,trip_id,direction_id\n")
+	trips_txt.write("route_id,service_id,trip_id,direction_id,shape_id\n")
 	stop_times_txt = open("stop_times.txt","w",encoding="utf8")
 	stop_times_txt.write("trip_id,arrival_time,departure_time,stop_id,stop_sequence\n")
 	
@@ -100,6 +110,7 @@ def create_stop_times_trips():
 			direction_id = "0"
 		route_id_prev = route_id
 		route_id = stops_dict[route]["route_id"]
+		shape_id = str(stops_dict[route]["OSM"])
 		if route_id != route_id_prev:
 			trip_seq = 1
 		if len(stops_dict[route]["stops"]) != len(travel_times_dict[route]):
@@ -108,7 +119,7 @@ def create_stop_times_trips():
 		for service_id, service_start_times in route_data.items():
 			for start_time in service_start_times:
 				trip_id = route_id + format(trip_seq, "04d")
-				trips_txt.write(",".join([route_id, service_id, trip_id, direction_id])+"\n")
+				trips_txt.write(",".join([route_id, service_id, trip_id, direction_id, shape_id])+"\n")
 				start_time = datetime.datetime.strptime(start_time, "%H:%M")
 				stop_seq = 0
 				for stop in stops_dict[route]["stops"]:
@@ -121,6 +132,10 @@ def create_stop_times_trips():
 	stop_times_txt.close()
 
 def main():
+	# check OSM data available
+	if not(os.path.exists("data/shapes.json") and os.path.exists("data/stops.json")):
+		print("ERROR: OSM data not found\nPlease run get_data_from_OSM script")
+		return
 	# create text files
 	print("creating agency.txt...")
 	create_agency()
@@ -130,8 +145,8 @@ def main():
 	create_calendar_dates()
 	print("creating routes.txt...")
 	create_routes()
-	#print("creating shapes.txt...")
-	#create_shapes()
+	print("creating shapes.txt...")
+	create_shapes()
 	print("creating stops.txt...")
 	create_stops()
 	print("creating stop_times.txt and trips.txt...")
@@ -143,7 +158,7 @@ def main():
 	gtfs_zip.write("calendar.txt")
 	gtfs_zip.write("calendar_dates.txt")
 	gtfs_zip.write("routes.txt")
-	#gtfs_zip.write("shapes.txt")
+	gtfs_zip.write("shapes.txt")
 	gtfs_zip.write("stops.txt")
 	gtfs_zip.write("stop_times.txt")
 	gtfs_zip.write("trips.txt")
