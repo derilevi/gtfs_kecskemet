@@ -63,18 +63,7 @@ def create_shapes():
 			seq += 1
 	shapes_txt.close()
 
-def get_unique_stops():
-	source_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
-	data = json.load(source_json)
-	source_json.close()
-	unique_stops = set()
-	for route, route_data in data.items():
-		for stop in route_data["stops"]:
-			unique_stops.add(stop)
-	return unique_stops
-
 def create_stops():
-	unique_stops = get_unique_stops()
 	source_json = open("data/stops.json","r",encoding="utf8")
 	data = json.load(source_json)
 	source_json.close()
