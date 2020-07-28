@@ -9,19 +9,19 @@
   },
   "20200820": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_TSZ"]
+    "remove": ["MN", "MN_TSZ", "MN_K_P"]
   },
   "20200821": {
     "add": ["SZN", "SZ_MSZ"],
-    "remove": ["MN", "MN_TSZ"]
+    "remove": ["MN", "MN_TSZ", "MN_K_P"]
   },
   "20200829": {
-    "add": ["MN", "MN_TSZ"],
+    "add": ["MN", "MN_TSZ", "MN_K_P"],
     "remove": ["SZN", "SZ_MSZ"]
   },
   "20201023": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_IE"]
+    "remove": ["MN", "MN_IE", "MN_K_P"]
   },
   "20201026": {
     "add": ["MN_TSZ"],
@@ -48,7 +48,7 @@
     "remove": ["MSZ_AUCHAN_NY"]
   },
   "20201212": {
-    "add": ["MN", "MN_IE"],
+    "add": ["MN", "MN_IE", "MN_K_P"],
     "remove": ["SZN", "SZ_MSZ"]
   },
   "20201221": {
@@ -65,11 +65,11 @@
   },
   "20201224": {
     "add": ["Szenteste"],
-    "remove": ["MN", "MN_TSZ"]
+    "remove": ["MN", "MN_TSZ", "MN_K_P"]
   },
   "20201225": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_TSZ"]
+    "remove": ["MN", "MN_TSZ", "MN_K_P"]
   },
   "20201226": {
     "add": ["MSZN", "MSZ_AUCHAN_Z"],
@@ -89,6 +89,6 @@
   },
   "20201231": {
     "add": ["Szilveszter"],
-    "remove": ["MN", "MN_TSZ"]
+    "remove": ["MN", "MN_TSZ", "MN_K_P"]
   }
 }
