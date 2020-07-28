@@ -74,16 +74,25 @@ def create_stops():
 	stops_txt.close()
 
 def create_stop_times_trips():
+	old_version_include = True
+	old_version_date = "20200525"
+	
 	travel_times_json = open("data/travel_times.json","r",encoding="utf8")
 	start_times_json = open("data/start_times.json","r",encoding="utf8")
+	travel_times_old_json = open("data/travel_times_"+old_version_date+".json","r",encoding="utf8")
+	start_times_old_json = open("data/start_times_"+old_version_date+".json","r",encoding="utf8")
 	stops_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
 
 	travel_times_dict = json.load(travel_times_json)
 	start_times_dict = json.load(start_times_json)
+	travel_times_old_dict = json.load(travel_times_old_json)
+	start_times_old_dict = json.load(start_times_old_json)
 	stops_dict = json.load(stops_json)
 
 	travel_times_json.close()
 	start_times_json.close()
+	travel_times_old_json.close()
+	start_times_old_json.close()
 	stops_json.close()
 	
 	trips_txt = open("trips.txt","w",encoding="utf8")
@@ -97,6 +106,12 @@ def create_stop_times_trips():
 			direction_id = "1"
 		else:
 			direction_id = "0"
+		if old_version_include:
+			keys = ["MN", "MN_TSZ", "SZN", "MSZN", "SZ_MSZ"]
+			for k in keys:
+				if route in start_times_old_dict:
+					if k in start_times_old_dict[route]:
+						route_data[k+"_"+old_version_date] = start_times_old_dict[route][k]
 		route_id_prev = route_id
 		route_id = stops_dict[route]["route_id"]
 		shape_id = str(stops_dict[route]["OSM"])
@@ -112,7 +127,10 @@ def create_stop_times_trips():
 				start_time = datetime.datetime.strptime(start_time, "%H:%M")
 				stop_seq = 0
 				for stop in stops_dict[route]["stops"]:
-					stop_time = start_time + datetime.timedelta(minutes=int(travel_times_dict[route][stop_seq]))
+					if old_version_include and old_version_date in service_id:
+						stop_time = start_time + datetime.timedelta(minutes=int(travel_times_old_dict[route][stop_seq]))
+					else:
+						stop_time = start_time + datetime.timedelta(minutes=int(travel_times_dict[route][stop_seq]))
 					stop_time = datetime.datetime.strftime(stop_time, "%H:%M:%S")
 					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq)])+"\n")
 					stop_seq += 1
