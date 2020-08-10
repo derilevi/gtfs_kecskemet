@@ -7,30 +7,8 @@
     "friday": 1,
     "saturday": 1,
     "sunday": 1,
-    "start_date": 20200525,
+    "start_date": 20200802,
     "end_date": 20201231
-  },
-  "MN_20200525": {
-    "monday": 1,
-    "tuesday": 1,
-    "wednesday": 1,
-    "thursday": 1,
-    "friday": 1,
-    "saturday": 0,
-    "sunday": 0,
-    "start_date": 20200525,
-    "end_date": 20200801
-  },
-  "MN_TSZ_20200525": {
-    "monday": 1,
-    "tuesday": 1,
-    "wednesday": 1,
-    "thursday": 1,
-    "friday": 1,
-    "saturday": 0,
-    "sunday": 0,
-    "start_date": 20200525,
-    "end_date": 20200801
   },
   "MN": {
     "monday": 1,
@@ -87,39 +65,6 @@
     "start_date": 20200901,
     "end_date": 20201231
   },
-  "SZN_20200525": {
-    "monday": 0,
-    "tuesday": 0,
-    "wednesday": 0,
-    "thursday": 0,
-    "friday": 0,
-    "saturday": 1,
-    "sunday": 0,
-    "start_date": 20200525,
-    "end_date": 20200801
-  },
-  "MSZN_20200525": {
-    "monday": 0,
-    "tuesday": 0,
-    "wednesday": 0,
-    "thursday": 0,
-    "friday": 0,
-    "saturday": 0,
-    "sunday": 1,
-    "start_date": 20200525,
-    "end_date": 20200801
-  },
-  "SZ_MSZ_20200525": {
-    "monday": 0,
-    "tuesday": 0,
-    "wednesday": 0,
-    "thursday": 0,
-    "friday": 0,
-    "saturday": 1,
-    "sunday": 1,
-    "start_date": 20200525,
-    "end_date": 20200801
-  },
   "SZN": {
     "monday": 0,
     "tuesday": 0,
@@ -161,7 +106,7 @@
     "friday": 0,
     "saturday": 0,
     "sunday": 1,
-    "start_date": 20200525,
+    "start_date": 20200802,
     "end_date": 20201231
   }
 }

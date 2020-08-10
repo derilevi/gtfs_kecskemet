@@ -1,12 +1,4 @@
 {
-  "20200531": {
-    "add": ["MSZ_AUCHAN_Z"],
-    "remove": ["MSZ_AUCHAN_NY"]
-  },
-  "20200601": {
-    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_TSZ"]
-  },
   "20200820": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_TSZ", "MN_K_P"]

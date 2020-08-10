@@ -74,7 +74,7 @@ def create_stops():
 	stops_txt.close()
 
 def create_stop_times_trips():
-	old_version_include = True
+	old_version_include = False
 	old_version_date = "20200525"
 	
 	travel_times_json = open("data/travel_times.json","r",encoding="utf8")
