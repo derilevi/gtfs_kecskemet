@@ -108,5 +108,16 @@
     "sunday": 1,
     "start_date": 20200802,
     "end_date": 20201231
+  },
+  "20200815": {
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": 20200815,
+    "end_date": 20200815
   }
 }
