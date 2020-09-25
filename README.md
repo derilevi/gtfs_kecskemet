@@ -1,6 +1,6 @@
 # gtfs_kecskemet_unofficial
 
-Kecskemét **nem hivatalos** GTFS adatbázisa
+### Kecskemét **nem hivatalos** GTFS adatbázisa
 
 **Disclaimer: semmilyen kapcsolatban nem állok a Kecskeméti Közlekedési Központ Kft.-vel, az adatbázist önkéntesen, szabadidőmben fejlesztem. Az adatbázis nem tekinthető hivatalos adatforrásnak.**
 
@@ -14,9 +14,9 @@ Köszönet az OpenStreetMap közreműködőknek!
 
 ---
 
-**Unofficial** GTFS database of Kecskemét
+### **Unofficial** GTFS database of Kecskemét
 
-**Disclaimer: I am not associated with Public Transportation Centre of Kecskemét, I am developing this database voluntarily in my free time. The database cannot be considered as an official data source.
+**Disclaimer: I am not associated with Public Transportation Centre of Kecskemét, I am developing this database voluntarily in my free time. The database cannot be considered as an official data source.**
 
 The database is free to use. Please link this page if you use it.
 
