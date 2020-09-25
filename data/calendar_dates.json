@@ -23,6 +23,10 @@
     "add": ["20200919"],
     "remove": []
   },
+  "20200926": {
+    "add": ["20200926"],
+    "remove": []
+  },
   "20201023": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_IE", "MN_K_P"]
