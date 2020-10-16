@@ -35,6 +35,10 @@
     "add": ["EXTRA2"],
     "remove": []
   },
+  "20201017": {
+    "add": ["EXTRA2"],
+    "remove": []
+  },
   "20201023": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_IE", "MN_K_P"]
