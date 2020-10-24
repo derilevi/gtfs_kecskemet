@@ -56,7 +56,7 @@
     "remove": ["MN_IE"]
   },
   "20201029": {
-    "add": ["MN_TSZ"],
+    "add": ["MN_TSZ", "EXTRA3"],
     "remove": ["MN_IE"]
   },
   "20201030": {
