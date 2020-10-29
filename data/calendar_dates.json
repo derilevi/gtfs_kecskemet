@@ -63,6 +63,10 @@
     "add": ["MN_TSZ"],
     "remove": ["MN_IE"]
   },
+  "20201031": {
+    "add": ["EXTRA2"],
+    "remove": []
+  },
   "20201101": {
     "add": ["MSZ_AUCHAN_Z"],
     "remove": ["MSZ_AUCHAN_NY"]
