@@ -5,14 +5,14 @@
   },
   "20200820": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_TSZ", "MN_K_P"]
+    "remove": ["MN_20200802", "MN_TSZ_20200802", "MN_K_P"]
   },
   "20200821": {
     "add": ["SZN", "SZ_MSZ"],
-    "remove": ["MN", "MN_TSZ", "MN_K_P"]
+    "remove": ["MN_20200802", "MN_TSZ_20200802", "MN_K_P"]
   },
   "20200829": {
-    "add": ["MN", "MN_TSZ", "MN_K_P"],
+    "add": ["MN_20200802", "MN_TSZ_20200802", "MN_K_P"],
     "remove": ["SZN", "SZ_MSZ"]
   },
   "20200912": {
@@ -41,27 +41,27 @@
   },
   "20201023": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_IE", "MN_K_P"]
+    "remove": ["MN_20200802", "MN_IE_20200802", "MN_K_P"]
   },
   "20201026": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["MN_TSZ_20200802"],
+    "remove": ["MN_IE_20200802"]
   },
   "20201027": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["MN_TSZ_20200802"],
+    "remove": ["MN_IE_20200802"]
   },
   "20201028": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["MN_TSZ_20200802"],
+    "remove": ["MN_IE_20200802"]
   },
   "20201029": {
-    "add": ["MN_TSZ", "EXTRA3"],
-    "remove": ["MN_IE"]
+    "add": ["MN_TSZ_20200802", "EXTRA3"],
+    "remove": ["MN_IE_20200802"]
   },
   "20201030": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["MN_TSZ_20200802"],
+    "remove": ["MN_IE_20200802"]
   },
   "20201031": {
     "add": ["EXTRA2"],
@@ -89,11 +89,11 @@
   },
   "20201224": {
     "add": ["Szenteste"],
-    "remove": ["MN", "MN_TSZ", "MN_K_P"]
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201225": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_TSZ", "MN_K_P"]
+    "remove": ["MN", "MN_IE", "MN_K_P"]
   },
   "20201226": {
     "add": ["MSZN", "MSZ_AUCHAN_Z"],
@@ -113,6 +113,6 @@
   },
   "20201231": {
     "add": ["Szilveszter"],
-    "remove": ["MN", "MN_TSZ", "MN_K_P"]
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   }
 }
