@@ -1,4 +1,8 @@
 {
+  "20201205": {
+    "add": ["EXTRA2"],
+    "remove": []
+  },
   "20201212": {
     "add": ["MN", "MN_IE", "MN_K_P"],
     "remove": ["SZN", "SZ_MSZ"]
