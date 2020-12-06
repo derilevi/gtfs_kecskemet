@@ -274,5 +274,23 @@
     "route_long_name": "Széchenyi tér - Kadafalva",
     "route_type": 3,
     "agency": "KEKO"
+  },
+  "3500": {
+    "route_short_name": "350",
+    "route_long_name": "Máriaváros, vasútállomás - Széchenyiváros - Máriaváros, vasútállomás",
+    "route_type": 3,
+    "agency": "KEKO"
+  },
+  "3530": {
+    "route_short_name": "353",
+    "route_long_name": "Hetényegyháza, vasútállomás - Kikelet utca - Hetényegyháza, vasútállomás",
+    "route_type": 3,
+    "agency": "KEKO"
+  },
+  "3540": {
+    "route_short_name": "354",
+    "route_long_name": "Hetényegyháza, vasútállomás - Miklós Gyula utca - Hetényegyháza, végállomás",
+    "route_type": 3,
+    "agency": "KEKO"
   }
 }
