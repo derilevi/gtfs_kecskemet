@@ -79,21 +79,23 @@ def create_stop_times_trips():
 	
 	travel_times_json = open("data/travel_times.json","r",encoding="utf8")
 	start_times_json = open("data/start_times.json","r",encoding="utf8")
-	travel_times_old_json = open("data/travel_times_"+old_version_date+".json","r",encoding="utf8")
-	start_times_old_json = open("data/start_times_"+old_version_date+".json","r",encoding="utf8")
 	stops_json = open("data/route_OSM_stops_mapping.json","r",encoding="utf8")
-
+	
 	travel_times_dict = json.load(travel_times_json)
 	start_times_dict = json.load(start_times_json)
-	travel_times_old_dict = json.load(travel_times_old_json)
-	start_times_old_dict = json.load(start_times_old_json)
 	stops_dict = json.load(stops_json)
-
+	
 	travel_times_json.close()
 	start_times_json.close()
-	travel_times_old_json.close()
-	start_times_old_json.close()
 	stops_json.close()
+	
+	if old_version_include:
+		travel_times_old_json = open("data/travel_times_"+old_version_date+".json","r",encoding="utf8")
+		start_times_old_json = open("data/start_times_"+old_version_date+".json","r",encoding="utf8")
+		travel_times_old_dict = json.load(travel_times_old_json)
+		start_times_old_dict = json.load(start_times_old_json)
+		travel_times_old_json.close()
+		start_times_old_json.close()
 	
 	trips_txt = open("out/trips.txt","w",encoding="utf8")
 	trips_txt.write("route_id,service_id,trip_id,direction_id,shape_id\n")
