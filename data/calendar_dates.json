@@ -7,6 +7,10 @@
     "add": ["MN_20201121", "MN_IE", "MN_K_P"],
     "remove": ["SZN", "SZ_MSZ"]
   },
+  "20201214": {
+    "add": ["EXTRA_20201214"],
+    "remove": []
+  },
   "20201221": {
     "add": ["MN_TSZ"],
     "remove": ["MN_IE"]
