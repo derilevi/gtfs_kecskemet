@@ -13,6 +13,7 @@ routes = json.load(source_json)
 source_json.close()
 
 for route_id, route_data in routes.items():
+	print(route_id)
 	ways = []
 	way_nodes = []
 	shapes[route_data["OSM"]] = []
@@ -59,7 +60,7 @@ for route_id, route_data in routes.items():
 
 if mapping_update == True:
 	f = open("data/route_OSM_stops_mapping.json","w",encoding="utf8")
-	json.dump(routes, f)
+	json.dump(routes, f, indent=2)
 	f.close()
 
 for stop_id, stop_data in sorted(stops.items()):
@@ -68,9 +69,9 @@ for stop_id, stop_data in sorted(stops.items()):
 	stop_lon = str(stop_data["lon"])
 	stops_out[stop_id] = {"stop_name": stop_name, "stop_lat": stop_lat, "stop_lon": stop_lon}
 stops_json = open("data/stops.json","w",encoding="utf8")
-json.dump(stops_out, stops_json, ensure_ascii=False)
+json.dump(stops_out, stops_json, ensure_ascii=False, indent=2)
 stops_json.close()
 
 shapes_json = open("data/shapes.json","w",encoding="utf8")
-json.dump(shapes, shapes_json, ensure_ascii=False)
+json.dump(shapes, shapes_json, ensure_ascii=False, indent=2)
 shapes_json.close()
