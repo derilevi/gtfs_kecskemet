@@ -16,7 +16,7 @@
     "remove": ["MN_IE"]
   },
   "20201224": {
-    "add": ["Szenteste"],
+    "add": ["DEC_24"],
     "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201225": {
