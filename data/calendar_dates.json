@@ -20,32 +20,40 @@
     "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201225": {
-    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_IE", "MN_K_P"]
+    "add": ["DEC_25_26_27_JAN_1", "DEC_25_26_JAN_1"],
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201226": {
-    "add": ["MSZN", "MSZ_AUCHAN_Z"],
-    "remove": ["SZN"]
+    "add": ["DEC_25_26_27_JAN_1", "DEC_25_26_JAN_1"],
+    "remove": ["ALL", "SZN", "SZ_MSZ"]
+  },
+  "20201227": {
+    "add": ["DEC_25_26_27_JAN_1", "DEC_27"],
+    "remove": ["ALL", "MSZN", "SZ_MSZ", "MSZ_AUCHAN_NY"]
   },
   "20201228": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["DEC_28_29_30", "DEC_28"],
+    "remove": ["ALL", "MN", "MN_IE", "MN_H"]
   },
   "20201229": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["DEC_28_29_30", "DEC_29_30"],
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201230": {
-    "add": ["MN_TSZ"],
-    "remove": ["MN_IE"]
+    "add": ["DEC_28_29_30", "DEC_29_30"],
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20201231": {
-    "add": ["Szilveszter"],
+    "add": ["DEC_31"],
     "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
   },
   "20210101": {
-    "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
-    "remove": ["MN", "MN_IE", "MN_K_P"]
+    "add": ["DEC_25_26_27_JAN_1", "DEC_25_26_JAN_1"],
+    "remove": ["ALL", "MN", "MN_IE", "MN_K_P"]
+  },
+  "20210102": {
+    "add": ["JAN_2"],
+    "remove": ["SZN", "SZ_MSZ"]
   },
   "20210315": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
