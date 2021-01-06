@@ -55,6 +55,18 @@
     "add": ["JAN_2"],
     "remove": ["SZN", "SZ_MSZ"]
   },
+  "20210115": {
+    "add": ["EXTRA_20210115"],
+    "remove": []
+  },
+  "20210116": {
+    "add": ["EXTRA_20210116"],
+    "remove": []
+  },
+  "20210117": {
+    "add": ["EXTRA_20210117"],
+    "remove": []
+  },
   "20210315": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_IE", "MN_H"]
