@@ -128,7 +128,7 @@ def create_stop_times_trips():
 		for service_id, service_start_times in route_data.items():
 			for start_time in service_start_times:
 				trip_id = route_id + format(trip_seq, "04d")
-				trips_txt.write(",".join([route_id, service_id, trip_id, trip_headsign, direction_id, shape_id])+"\n")
+				trips_txt.write(",".join([route_id, service_id, trip_id, "\""+trip_headsign+"\"", direction_id, shape_id])+"\n")
 				start_time = datetime.datetime.strptime(start_time, "%H:%M")
 				stop_seq = 0
 				stop_headsign = ""
@@ -140,7 +140,7 @@ def create_stop_times_trips():
 					if "alt_headsign" in stops_dict[route] and stop == stops_dict[route]["alt_headsign"]["from_stop"]:
 						stop_headsign = stops_dict[route]["alt_headsign"]["headsign"]
 					stop_time = datetime.datetime.strftime(stop_time, "%H:%M:%S")
-					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq), stop_headsign])+"\n")
+					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq), "\""+stop_headsign+"\""])+"\n")
 					stop_seq += 1
 				trip_seq += 1
 	trips_txt.close()
