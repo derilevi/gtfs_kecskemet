@@ -98,9 +98,9 @@ def create_stop_times_trips():
 		start_times_old_json.close()
 	
 	trips_txt = open("out/trips.txt","w",encoding="utf8")
-	trips_txt.write("route_id,service_id,trip_id,direction_id,shape_id\n")
+	trips_txt.write("route_id,service_id,trip_id,trip_headsign,direction_id,shape_id\n")
 	stop_times_txt = open("out/stop_times.txt","w",encoding="utf8")
-	stop_times_txt.write("trip_id,arrival_time,departure_time,stop_id,stop_sequence\n")
+	stop_times_txt.write("trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign\n")
 	
 	route_id = "0000"
 	for route, route_data in start_times_dict.items():
@@ -119,6 +119,7 @@ def create_stop_times_trips():
 		route_id_prev = route_id
 		route_id = stops_dict[route]["route_id"]
 		shape_id = str(stops_dict[route]["OSM"])
+		trip_headsign = stops_dict[route]["headsign"]
 		if route_id != route_id_prev:
 			trip_seq = 1
 		if len(stops_dict[route]["stops"]) != len(travel_times_dict[route]):
@@ -127,16 +128,19 @@ def create_stop_times_trips():
 		for service_id, service_start_times in route_data.items():
 			for start_time in service_start_times:
 				trip_id = route_id + format(trip_seq, "04d")
-				trips_txt.write(",".join([route_id, service_id, trip_id, direction_id, shape_id])+"\n")
+				trips_txt.write(",".join([route_id, service_id, trip_id, trip_headsign, direction_id, shape_id])+"\n")
 				start_time = datetime.datetime.strptime(start_time, "%H:%M")
 				stop_seq = 0
+				stop_headsign = ""
 				for stop in stops_dict[route]["stops"]:
 					if old_version_include and old_version_date in service_id:
 						stop_time = start_time + datetime.timedelta(minutes=int(travel_times_old_dict[route][stop_seq]))
 					else:
 						stop_time = start_time + datetime.timedelta(minutes=int(travel_times_dict[route][stop_seq]))
+					if "alt_headsign" in stops_dict[route] and stop == stops_dict[route]["alt_headsign"]["from_stop"]:
+						stop_headsign = stops_dict[route]["alt_headsign"]["headsign"]
 					stop_time = datetime.datetime.strftime(stop_time, "%H:%M:%S")
-					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq)])+"\n")
+					stop_times_txt.write(",".join([trip_id, stop_time, stop_time, str(stop), str(stop_seq), stop_headsign])+"\n")
 					stop_seq += 1
 				trip_seq += 1
 	trips_txt.close()

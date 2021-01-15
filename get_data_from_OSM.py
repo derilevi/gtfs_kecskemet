@@ -21,6 +21,18 @@ for route_id, route_data in routes.items():
 	url = api_url.replace("#id", str(route_data["OSM"]))
 	req = requests.get(url)
 	data = req.json()
+	"""
+	#headsign
+	if route_id.strip("abcd") in ["2","2A","3","5","6","7","7C","9","916","169","12","20","22","23","23A","25","28","34","350"]:
+		routes[route_id]["headsign"] = data["elements"][-1]["tags"]["via"]
+		routes[route_id]["alt_headsign"] = {}
+		if route_id != "9":
+			routes[route_id]["alt_headsign"]["headsign"] = data["elements"][-1]["tags"]["to"]
+			routes[route_id]["alt_headsign"]["from_stop"] = 0
+	else:
+		routes[route_id]["headsign"] = data["elements"][-1]["tags"]["to"]
+	print(routes[route_id]["headsign"])
+	"""
 	for member in data["elements"][-1]["members"]:
 		# get route stops
 		if member["type"] == "node":
@@ -60,7 +72,7 @@ for route_id, route_data in routes.items():
 
 if mapping_update == True:
 	f = open("data/route_OSM_stops_mapping.json","w",encoding="utf8")
-	json.dump(routes, f, indent=2)
+	json.dump(routes, f, ensure_ascii=False, indent=2)
 	f.close()
 
 for stop_id, stop_data in sorted(stops.items()):
