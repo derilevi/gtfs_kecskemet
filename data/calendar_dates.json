@@ -67,6 +67,10 @@
     "add": ["EXTRA_20210117"],
     "remove": []
   },
+  "20210130": {
+    "add": ["EXTRA_20210130"],
+    "remove": []
+  },
   "20210315": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_IE", "MN_H"]
