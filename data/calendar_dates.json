@@ -1,4 +1,7 @@
 {
+  "20210206": {
+      "add": ["EXTRA_20210206"]
+  },
   "20210315": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_IE", "MN_H"]
