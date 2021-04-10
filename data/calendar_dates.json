@@ -18,7 +18,7 @@
   "20210403": {
     "add": ["MSZN"],
     "remove": ["SZN"]
-  }
+  },
   "20210404": {
     "add": ["MSZ_AUCHAN_Z"],
     "remove": ["MSZ_AUCHAN_NY"]
