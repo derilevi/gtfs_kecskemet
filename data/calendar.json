@@ -52,6 +52,17 @@
     "saturday": 0,
     "sunday": 0,
     "start_date": 20210201,
+    "end_date": 20210307
+  },
+  "MN_TSZ": {
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20210308,
     "end_date": 20210615
   },
   "SZN": {
