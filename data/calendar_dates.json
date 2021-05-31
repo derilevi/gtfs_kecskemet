@@ -131,9 +131,17 @@
     "add": ["EXTRA_20210410"],
     "remove": []
   },
+  "20210421": {
+    "add": ["EXTRA_20210421"],
+    "remove": []
+  },
   "20210501": {
     "add": ["MSZN", "MSZ_AUCHAN_Z"],
     "remove": ["SZN"]
+  },
+  "20210516": {
+    "add": ["EXTRA_20210516"],
+    "remove": []
   },
   "20210523": {
     "add": ["MSZ_AUCHAN_Z"],
@@ -142,6 +150,10 @@
   "20210524": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
     "remove": ["MN", "MN_TSZ", "MN_H"]
+  },
+  "20210530": {
+    "add": ["EXTRA_20210530"],
+    "remove": []
   },
   "20210820": {
     "add": ["MSZN", "SZ_MSZ", "MSZ_AUCHAN_Z"],
