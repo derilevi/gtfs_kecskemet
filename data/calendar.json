@@ -10,7 +10,7 @@
     "start_date": 20210201,
     "end_date": 20211231
   },
-  "MN": {
+  "MN_20210201": {
     "monday": 1,
     "tuesday": 1,
     "wednesday": 1,
@@ -19,6 +19,61 @@
     "saturday": 0,
     "sunday": 0,
     "start_date": 20210201,
+    "end_date": 20210531
+  },
+  "MN_TSZ_20210201": {
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20210308,
+    "end_date": 20210531
+  },
+  "SZN_20210201": {
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 0,
+    "start_date": 20210201,
+    "end_date": 20210531
+  },
+  "SZ_MSZ_20210201": {
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 1,
+    "sunday": 1,
+    "start_date": 20210201,
+    "end_date": 20210531
+  },
+  "MSZN_20210201": {
+    "monday": 0,
+    "tuesday": 0,
+    "wednesday": 0,
+    "thursday": 0,
+    "friday": 0,
+    "saturday": 0,
+    "sunday": 1,
+    "start_date": 20210201,
+    "end_date": 20210531
+  },
+  "MN": {
+    "monday": 1,
+    "tuesday": 1,
+    "wednesday": 1,
+    "thursday": 1,
+    "friday": 1,
+    "saturday": 0,
+    "sunday": 0,
+    "start_date": 20210601,
     "end_date": 20211231
   },
   "MN_H": {
@@ -62,7 +117,7 @@
     "friday": 1,
     "saturday": 0,
     "sunday": 0,
-    "start_date": 20210308,
+    "start_date": 20210601,
     "end_date": 20210831
   },
   "SZN": {
@@ -73,7 +128,7 @@
     "friday": 0,
     "saturday": 1,
     "sunday": 0,
-    "start_date": 20210201,
+    "start_date": 20210601,
     "end_date": 20211231
   },
   "MSZN": {
@@ -84,7 +139,7 @@
     "friday": 0,
     "saturday": 0,
     "sunday": 1,
-    "start_date": 20210201,
+    "start_date": 20210601,
     "end_date": 20211231
   },
   "SZ_MSZ": {
@@ -95,7 +150,7 @@
     "friday": 0,
     "saturday": 1,
     "sunday": 1,
-    "start_date": 20210201,
+    "start_date": 20210601,
     "end_date": 20211231
   },
   "MSZ_AUCHAN_NY": {
