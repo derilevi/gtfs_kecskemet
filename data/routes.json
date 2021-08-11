@@ -1,7 +1,7 @@
 {
   "0010": {
     "route_short_name": 1,
-    "route_long_name": "Noszlopy Gáspár park - Homokbánya Kollégium",
+    "route_long_name": "Vasútállomás - Homokbánya Kollégium",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -25,13 +25,13 @@
   },
   "0022": {
     "route_short_name": "2D",
-    "route_long_name": "Noszlopy Gáspár park - Daimler I. kapu",
+    "route_long_name": "Vasútállomás - Daimler I. kapu",
     "route_type": 3,
     "agency": "KEKO"
   },
   "0023": {
     "route_short_name": "2S",
-    "route_long_name": "Noszlopy Gáspár park – SMP",
+    "route_long_name": "Vasútállomás – SMP",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -79,13 +79,13 @@
   },
   "0070": {
     "route_short_name": 7,
-    "route_long_name": "Noszlopy Gáspár park – NissinFoods – Noszlopy Gáspár park",
+    "route_long_name": "Vasútállomás – NissinFoods – Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
   "0071": {
     "route_short_name": "7C",
-    "route_long_name": "Noszlopy Gáspár park - Ipar utca - Noszlopy Gáspár park",
+    "route_long_name": "Vasútállomás - Ipar utca - Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -127,13 +127,13 @@
   },
   "0120": {
     "route_short_name": 12,
-    "route_long_name": "Széchenyi tér - Köztemető I. kapu - Széchenyi tér",
+    "route_long_name": "Margaréta Otthon - Széchenyi tér - Köztemető I. kapu - Széchenyi tér - Margaréta Otthon",
     "route_type": 3,
     "agency": "KEKO"
   },
   "0121": {
     "route_short_name": "12D",
-    "route_long_name": "Noszlopy Gáspár park - Daimler I. kapu",
+    "route_long_name": "Vasútállomás - Daimler I. kapu",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -169,7 +169,7 @@
   },
   "0150": {
     "route_short_name": 15,
-    "route_long_name": "Noszlopy Gáspár park - Hetényegyháza",
+    "route_long_name": "Vasútállomás - Hetényegyháza",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -193,7 +193,7 @@
   },
   "0190": {
     "route_short_name": 19,
-    "route_long_name": "Noszlopy Gáspár park - Miklóstelep",
+    "route_long_name": "Vasútállomás - Miklóstelep",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -211,19 +211,19 @@
   },
   "0210": {
     "route_short_name": 21,
-    "route_long_name": "Noszlopy Gáspár park - Széchenyiváros - Árpádváros - Noszlopy Gáspár park",
+    "route_long_name": "Vasútállomás - Széchenyiváros - Árpádváros - Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
   "0211": {
     "route_short_name": "21D",
-    "route_long_name": "Noszlopy Gáspár park - Daimler I. kapu",
+    "route_long_name": "Vasútállomás - Daimler I. kapu",
     "route_type": 3,
     "agency": "KEKO"
   },
   "0220": {
     "route_short_name": 22,
-    "route_long_name": "Noszlopy Gáspár park - Kecskeméti Fürdő - Noszlopy Gáspár park",
+    "route_long_name": "Vasútállomás - Kecskeméti Fürdő - Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -241,7 +241,7 @@
   },
   "0250": {
     "route_short_name": 25,
-    "route_long_name": "Noszlopy Gáspár park - Műkertváros - Noszlopy Gáspár park",
+    "route_long_name": "Vasútállomás - Műkertváros - Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -259,7 +259,7 @@
   },
   "0320": {
     "route_short_name": 32,
-    "route_long_name": "Noszlopy Gáspár park - Matkó",
+    "route_long_name": "Vasútállomás - Matkó",
     "route_type": 3,
     "agency": "KEKO"
   },
