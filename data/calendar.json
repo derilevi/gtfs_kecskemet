@@ -7,7 +7,7 @@
     "friday": 1,
     "saturday": 1,
     "sunday": 1,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MN": {
@@ -18,7 +18,7 @@
     "friday": 1,
     "saturday": 0,
     "sunday": 0,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MN_H": {
@@ -29,7 +29,7 @@
     "friday": 0,
     "saturday": 0,
     "sunday": 0,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MN_K_P": {
@@ -40,7 +40,7 @@
     "friday": 1,
     "saturday": 0,
     "sunday": 0,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MN_IE": {
@@ -54,17 +54,6 @@
     "start_date": 20210901,
     "end_date": 20211231
   },
-  "MN_TSZ": {
-    "monday": 1,
-    "tuesday": 1,
-    "wednesday": 1,
-    "thursday": 1,
-    "friday": 1,
-    "saturday": 0,
-    "sunday": 0,
-    "start_date": 20210808,
-    "end_date": 20210831
-  },
   "SZN": {
     "monday": 0,
     "tuesday": 0,
@@ -73,7 +62,7 @@
     "friday": 0,
     "saturday": 1,
     "sunday": 0,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MSZN": {
@@ -84,7 +73,7 @@
     "friday": 0,
     "saturday": 0,
     "sunday": 1,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "SZ_MSZ": {
@@ -95,7 +84,7 @@
     "friday": 0,
     "saturday": 1,
     "sunday": 1,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "MSZ_AUCHAN_NY": {
@@ -106,7 +95,7 @@
     "friday": 0,
     "saturday": 0,
     "sunday": 1,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20211231
   },
   "EXTRA_0801_0930": {
@@ -117,7 +106,7 @@
     "friday": 1,
     "saturday": 0,
     "sunday": 0,
-    "start_date": 20210808,
+    "start_date": 20210901,
     "end_date": 20210930
   }
 }

@@ -79,7 +79,7 @@
   },
   "0070": {
     "route_short_name": 7,
-    "route_long_name": "Vasútállomás – NissinFoods – Vasútállomás",
+    "route_long_name": "Vasútállomás – Nissin Foods – Vasútállomás",
     "route_type": 3,
     "agency": "KEKO"
   },
@@ -175,7 +175,7 @@
   },
   "0151": {
     "route_short_name": "15D",
-    "route_long_name": "Hetényegyháza - Daimler I. kapu - Knorr-Bremse",
+    "route_long_name": "Hetényegyháza - Daimler I. kapu - Nissin Foods",
     "route_type": 3,
     "agency": "KEKO"
   },
